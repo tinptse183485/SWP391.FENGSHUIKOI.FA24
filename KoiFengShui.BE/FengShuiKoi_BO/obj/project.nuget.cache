@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Z1E8fDwlBMI=",
+  "dgSpecHash": "Y+kwbkpn8bM=",
   "success": true,
-  "projectFilePath": "F:\\FPT\\Major\\Semester_5\\SWP391\\SWP391.FENGSHUIKOI-main\\KoiFengShui.BE\\FengShuiKoi_BO\\FengShuiKoi_BO.csproj",
+  "projectFilePath": "F:\\FPT\\Major\\Semester_5\\SWP391\\GIT_Final\\SWP391.FENGSHUIKOI.FA24\\KoiFengShui.BE\\FengShuiKoi_BO\\FengShuiKoi_BO.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ADMIN\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\ADMIN\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
