@@ -1952,11 +1952,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ADMIN\\Downloads\\KoiFengShui.BE.BACKUP\\KoiFengShui.BE\\FungShuiKoi_Repository\\FengShuiKoi_Repository.csproj",
+      "projectUniqueName": "C:\\Users\\ADMIN\\Downloads\\Test\\SWP391.FENGSHUIKOI.FA24\\KoiFengShui.BE\\FungShuiKoi_Repository\\FengShuiKoi_Repository.csproj",
       "projectName": "FengShuiKoi_Repository",
-      "projectPath": "C:\\Users\\ADMIN\\Downloads\\KoiFengShui.BE.BACKUP\\KoiFengShui.BE\\FungShuiKoi_Repository\\FengShuiKoi_Repository.csproj",
+      "projectPath": "C:\\Users\\ADMIN\\Downloads\\Test\\SWP391.FENGSHUIKOI.FA24\\KoiFengShui.BE\\FungShuiKoi_Repository\\FengShuiKoi_Repository.csproj",
       "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ADMIN\\Downloads\\KoiFengShui.BE.BACKUP\\KoiFengShui.BE\\FungShuiKoi_Repository\\obj\\",
+      "outputPath": "C:\\Users\\ADMIN\\Downloads\\Test\\SWP391.FENGSHUIKOI.FA24\\KoiFengShui.BE\\FungShuiKoi_Repository\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1976,8 +1976,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\ADMIN\\Downloads\\KoiFengShui.BE.BACKUP\\KoiFengShui.BE\\FungShuiKoi_DAO\\FengShuiKoi_DAO.csproj": {
-              "projectPath": "C:\\Users\\ADMIN\\Downloads\\KoiFengShui.BE.BACKUP\\KoiFengShui.BE\\FungShuiKoi_DAO\\FengShuiKoi_DAO.csproj"
+            "C:\\Users\\ADMIN\\Downloads\\Test\\SWP391.FENGSHUIKOI.FA24\\KoiFengShui.BE\\FungShuiKoi_DAO\\FengShuiKoi_DAO.csproj": {
+              "projectPath": "C:\\Users\\ADMIN\\Downloads\\Test\\SWP391.FENGSHUIKOI.FA24\\KoiFengShui.BE\\FungShuiKoi_DAO\\FengShuiKoi_DAO.csproj"
             }
           }
         }
