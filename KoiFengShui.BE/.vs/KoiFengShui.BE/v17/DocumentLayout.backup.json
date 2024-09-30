@@ -1,446 +1,70 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\SWP391\\KoiFengShui.BE\\",
+  "WorkspaceRootPath": "C:\\Users\\ADMIN\\Downloads\\KoiFengShui.BE.BACKUP\\KoiFengShui.BE\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A3C476BE-7F15-4D01-89D7-FEABAB07B873}|FungShuiKoi_Services\\FengShuiKoi_Services.csproj|e:\\swp391\\koifengshui.be\\fungshuikoi_services\\typecolorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A3C476BE-7F15-4D01-89D7-FEABAB07B873}|FungShuiKoi_Services\\FengShuiKoi_Services.csproj|solutionrelative:fungshuikoi_services\\typecolorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7E704CCD-1994-4984-BF6B-434F6CC93889}|KoiFengShui.BE\\KoiFengShui.BE.csproj|c:\\users\\admin\\downloads\\koifengshui.be.backup\\koifengshui.be\\koifengshui.be\\controllers\\koivarietycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E704CCD-1994-4984-BF6B-434F6CC93889}|KoiFengShui.BE\\KoiFengShui.BE.csproj|solutionrelative:koifengshui.be\\controllers\\koivarietycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A3C476BE-7F15-4D01-89D7-FEABAB07B873}|FungShuiKoi_Services\\FengShuiKoi_Services.csproj|e:\\swp391\\koifengshui.be\\fungshuikoi_services\\shapeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A3C476BE-7F15-4D01-89D7-FEABAB07B873}|FungShuiKoi_Services\\FengShuiKoi_Services.csproj|solutionrelative:fungshuikoi_services\\shapeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A3C476BE-7F15-4D01-89D7-FEABAB07B873}|FungShuiKoi_Services\\FengShuiKoi_Services.csproj|e:\\swp391\\koifengshui.be\\fungshuikoi_services\\quantityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A3C476BE-7F15-4D01-89D7-FEABAB07B873}|FungShuiKoi_Services\\FengShuiKoi_Services.csproj|solutionrelative:fungshuikoi_services\\quantityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A3C476BE-7F15-4D01-89D7-FEABAB07B873}|FungShuiKoi_Services\\FengShuiKoi_Services.csproj|e:\\swp391\\koifengshui.be\\fungshuikoi_services\\pointofshapeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A3C476BE-7F15-4D01-89D7-FEABAB07B873}|FungShuiKoi_Services\\FengShuiKoi_Services.csproj|solutionrelative:fungshuikoi_services\\pointofshapeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A3C476BE-7F15-4D01-89D7-FEABAB07B873}|FungShuiKoi_Services\\FengShuiKoi_Services.csproj|e:\\swp391\\koifengshui.be\\fungshuikoi_services\\packageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A3C476BE-7F15-4D01-89D7-FEABAB07B873}|FungShuiKoi_Services\\FengShuiKoi_Services.csproj|solutionrelative:fungshuikoi_services\\packageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A3C476BE-7F15-4D01-89D7-FEABAB07B873}|FungShuiKoi_Services\\FengShuiKoi_Services.csproj|e:\\swp391\\koifengshui.be\\fungshuikoi_services\\memberservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A3C476BE-7F15-4D01-89D7-FEABAB07B873}|FungShuiKoi_Services\\FengShuiKoi_Services.csproj|solutionrelative:fungshuikoi_services\\memberservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A3C476BE-7F15-4D01-89D7-FEABAB07B873}|FungShuiKoi_Services\\FengShuiKoi_Services.csproj|e:\\swp391\\koifengshui.be\\fungshuikoi_services\\lifeplaceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A3C476BE-7F15-4D01-89D7-FEABAB07B873}|FungShuiKoi_Services\\FengShuiKoi_Services.csproj|solutionrelative:fungshuikoi_services\\lifeplaceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A3C476BE-7F15-4D01-89D7-FEABAB07B873}|FungShuiKoi_Services\\FengShuiKoi_Services.csproj|e:\\swp391\\koifengshui.be\\fungshuikoi_services\\lifeplacedirectionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A3C476BE-7F15-4D01-89D7-FEABAB07B873}|FungShuiKoi_Services\\FengShuiKoi_Services.csproj|solutionrelative:fungshuikoi_services\\lifeplacedirectionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A3C476BE-7F15-4D01-89D7-FEABAB07B873}|FungShuiKoi_Services\\FengShuiKoi_Services.csproj|e:\\swp391\\koifengshui.be\\fungshuikoi_services\\koivarietyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A3C476BE-7F15-4D01-89D7-FEABAB07B873}|FungShuiKoi_Services\\FengShuiKoi_Services.csproj|c:\\users\\admin\\downloads\\koifengshui.be.backup\\koifengshui.be\\fungshuikoi_services\\koivarietyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A3C476BE-7F15-4D01-89D7-FEABAB07B873}|FungShuiKoi_Services\\FengShuiKoi_Services.csproj|solutionrelative:fungshuikoi_services\\koivarietyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A3C476BE-7F15-4D01-89D7-FEABAB07B873}|FungShuiKoi_Services\\FengShuiKoi_Services.csproj|e:\\swp391\\koifengshui.be\\fungshuikoi_services\\itypecolorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A3C476BE-7F15-4D01-89D7-FEABAB07B873}|FungShuiKoi_Services\\FengShuiKoi_Services.csproj|solutionrelative:fungshuikoi_services\\itypecolorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A3C476BE-7F15-4D01-89D7-FEABAB07B873}|FungShuiKoi_Services\\FengShuiKoi_Services.csproj|e:\\swp391\\koifengshui.be\\fungshuikoi_services\\ishapeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A3C476BE-7F15-4D01-89D7-FEABAB07B873}|FungShuiKoi_Services\\FengShuiKoi_Services.csproj|solutionrelative:fungshuikoi_services\\ishapeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A3C476BE-7F15-4D01-89D7-FEABAB07B873}|FungShuiKoi_Services\\FengShuiKoi_Services.csproj|e:\\swp391\\koifengshui.be\\fungshuikoi_services\\iquantityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A3C476BE-7F15-4D01-89D7-FEABAB07B873}|FungShuiKoi_Services\\FengShuiKoi_Services.csproj|solutionrelative:fungshuikoi_services\\iquantityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A3C476BE-7F15-4D01-89D7-FEABAB07B873}|FungShuiKoi_Services\\FengShuiKoi_Services.csproj|e:\\swp391\\koifengshui.be\\fungshuikoi_services\\ipointofshapeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A3C476BE-7F15-4D01-89D7-FEABAB07B873}|FungShuiKoi_Services\\FengShuiKoi_Services.csproj|solutionrelative:fungshuikoi_services\\ipointofshapeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A3C476BE-7F15-4D01-89D7-FEABAB07B873}|FungShuiKoi_Services\\FengShuiKoi_Services.csproj|e:\\swp391\\koifengshui.be\\fungshuikoi_services\\ipackageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A3C476BE-7F15-4D01-89D7-FEABAB07B873}|FungShuiKoi_Services\\FengShuiKoi_Services.csproj|solutionrelative:fungshuikoi_services\\ipackageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A3C476BE-7F15-4D01-89D7-FEABAB07B873}|FungShuiKoi_Services\\FengShuiKoi_Services.csproj|e:\\swp391\\koifengshui.be\\fungshuikoi_services\\imemberservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A3C476BE-7F15-4D01-89D7-FEABAB07B873}|FungShuiKoi_Services\\FengShuiKoi_Services.csproj|solutionrelative:fungshuikoi_services\\imemberservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A3C476BE-7F15-4D01-89D7-FEABAB07B873}|FungShuiKoi_Services\\FengShuiKoi_Services.csproj|e:\\swp391\\koifengshui.be\\fungshuikoi_services\\ilifeplaceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A3C476BE-7F15-4D01-89D7-FEABAB07B873}|FungShuiKoi_Services\\FengShuiKoi_Services.csproj|solutionrelative:fungshuikoi_services\\ilifeplaceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A3C476BE-7F15-4D01-89D7-FEABAB07B873}|FungShuiKoi_Services\\FengShuiKoi_Services.csproj|e:\\swp391\\koifengshui.be\\fungshuikoi_services\\ilifeplacedirectionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A3C476BE-7F15-4D01-89D7-FEABAB07B873}|FungShuiKoi_Services\\FengShuiKoi_Services.csproj|solutionrelative:fungshuikoi_services\\ilifeplacedirectionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A3C476BE-7F15-4D01-89D7-FEABAB07B873}|FungShuiKoi_Services\\FengShuiKoi_Services.csproj|e:\\swp391\\koifengshui.be\\fungshuikoi_services\\ikoivarietyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A3C476BE-7F15-4D01-89D7-FEABAB07B873}|FungShuiKoi_Services\\FengShuiKoi_Services.csproj|solutionrelative:fungshuikoi_services\\ikoivarietyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A3C476BE-7F15-4D01-89D7-FEABAB07B873}|FungShuiKoi_Services\\FengShuiKoi_Services.csproj|e:\\swp391\\koifengshui.be\\fungshuikoi_services\\ifeedbackservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A3C476BE-7F15-4D01-89D7-FEABAB07B873}|FungShuiKoi_Services\\FengShuiKoi_Services.csproj|solutionrelative:fungshuikoi_services\\ifeedbackservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A3C476BE-7F15-4D01-89D7-FEABAB07B873}|FungShuiKoi_Services\\FengShuiKoi_Services.csproj|e:\\swp391\\koifengshui.be\\fungshuikoi_services\\ielementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A3C476BE-7F15-4D01-89D7-FEABAB07B873}|FungShuiKoi_Services\\FengShuiKoi_Services.csproj|solutionrelative:fungshuikoi_services\\ielementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A3C476BE-7F15-4D01-89D7-FEABAB07B873}|FungShuiKoi_Services\\FengShuiKoi_Services.csproj|e:\\swp391\\koifengshui.be\\fungshuikoi_services\\ielementcolorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A3C476BE-7F15-4D01-89D7-FEABAB07B873}|FungShuiKoi_Services\\FengShuiKoi_Services.csproj|solutionrelative:fungshuikoi_services\\ielementcolorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A3C476BE-7F15-4D01-89D7-FEABAB07B873}|FungShuiKoi_Services\\FengShuiKoi_Services.csproj|e:\\swp391\\koifengshui.be\\fungshuikoi_services\\idirectionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A3C476BE-7F15-4D01-89D7-FEABAB07B873}|FungShuiKoi_Services\\FengShuiKoi_Services.csproj|solutionrelative:fungshuikoi_services\\idirectionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A3C476BE-7F15-4D01-89D7-FEABAB07B873}|FungShuiKoi_Services\\FengShuiKoi_Services.csproj|e:\\swp391\\koifengshui.be\\fungshuikoi_services\\icolorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A3C476BE-7F15-4D01-89D7-FEABAB07B873}|FungShuiKoi_Services\\FengShuiKoi_Services.csproj|solutionrelative:fungshuikoi_services\\icolorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A3C476BE-7F15-4D01-89D7-FEABAB07B873}|FungShuiKoi_Services\\FengShuiKoi_Services.csproj|e:\\swp391\\koifengshui.be\\fungshuikoi_services\\iblogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A3C476BE-7F15-4D01-89D7-FEABAB07B873}|FungShuiKoi_Services\\FengShuiKoi_Services.csproj|solutionrelative:fungshuikoi_services\\iblogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A3C476BE-7F15-4D01-89D7-FEABAB07B873}|FungShuiKoi_Services\\FengShuiKoi_Services.csproj|e:\\swp391\\koifengshui.be\\fungshuikoi_services\\iadvertisementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A3C476BE-7F15-4D01-89D7-FEABAB07B873}|FungShuiKoi_Services\\FengShuiKoi_Services.csproj|solutionrelative:fungshuikoi_services\\iadvertisementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A3C476BE-7F15-4D01-89D7-FEABAB07B873}|FungShuiKoi_Services\\FengShuiKoi_Services.csproj|e:\\swp391\\koifengshui.be\\fungshuikoi_services\\iadspackageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A3C476BE-7F15-4D01-89D7-FEABAB07B873}|FungShuiKoi_Services\\FengShuiKoi_Services.csproj|solutionrelative:fungshuikoi_services\\iadspackageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A3C476BE-7F15-4D01-89D7-FEABAB07B873}|FungShuiKoi_Services\\FengShuiKoi_Services.csproj|e:\\swp391\\koifengshui.be\\fungshuikoi_services\\iaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A3C476BE-7F15-4D01-89D7-FEABAB07B873}|FungShuiKoi_Services\\FengShuiKoi_Services.csproj|solutionrelative:fungshuikoi_services\\iaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A3C476BE-7F15-4D01-89D7-FEABAB07B873}|FungShuiKoi_Services\\FengShuiKoi_Services.csproj|e:\\swp391\\koifengshui.be\\fungshuikoi_services\\feedbackservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A3C476BE-7F15-4D01-89D7-FEABAB07B873}|FungShuiKoi_Services\\FengShuiKoi_Services.csproj|solutionrelative:fungshuikoi_services\\feedbackservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A3C476BE-7F15-4D01-89D7-FEABAB07B873}|FungShuiKoi_Services\\FengShuiKoi_Services.csproj|e:\\swp391\\koifengshui.be\\fungshuikoi_services\\elementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A3C476BE-7F15-4D01-89D7-FEABAB07B873}|FungShuiKoi_Services\\FengShuiKoi_Services.csproj|solutionrelative:fungshuikoi_services\\elementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A3C476BE-7F15-4D01-89D7-FEABAB07B873}|FungShuiKoi_Services\\FengShuiKoi_Services.csproj|e:\\swp391\\koifengshui.be\\fungshuikoi_services\\elementcolorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A3C476BE-7F15-4D01-89D7-FEABAB07B873}|FungShuiKoi_Services\\FengShuiKoi_Services.csproj|solutionrelative:fungshuikoi_services\\elementcolorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A3C476BE-7F15-4D01-89D7-FEABAB07B873}|FungShuiKoi_Services\\FengShuiKoi_Services.csproj|e:\\swp391\\koifengshui.be\\fungshuikoi_services\\directionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A3C476BE-7F15-4D01-89D7-FEABAB07B873}|FungShuiKoi_Services\\FengShuiKoi_Services.csproj|solutionrelative:fungshuikoi_services\\directionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A3C476BE-7F15-4D01-89D7-FEABAB07B873}|FungShuiKoi_Services\\FengShuiKoi_Services.csproj|e:\\swp391\\koifengshui.be\\fungshuikoi_services\\colorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A3C476BE-7F15-4D01-89D7-FEABAB07B873}|FungShuiKoi_Services\\FengShuiKoi_Services.csproj|solutionrelative:fungshuikoi_services\\colorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A3C476BE-7F15-4D01-89D7-FEABAB07B873}|FungShuiKoi_Services\\FengShuiKoi_Services.csproj|e:\\swp391\\koifengshui.be\\fungshuikoi_services\\blogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A3C476BE-7F15-4D01-89D7-FEABAB07B873}|FungShuiKoi_Services\\FengShuiKoi_Services.csproj|solutionrelative:fungshuikoi_services\\blogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A3C476BE-7F15-4D01-89D7-FEABAB07B873}|FungShuiKoi_Services\\FengShuiKoi_Services.csproj|e:\\swp391\\koifengshui.be\\fungshuikoi_services\\advertisementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A3C476BE-7F15-4D01-89D7-FEABAB07B873}|FungShuiKoi_Services\\FengShuiKoi_Services.csproj|solutionrelative:fungshuikoi_services\\advertisementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A3C476BE-7F15-4D01-89D7-FEABAB07B873}|FungShuiKoi_Services\\FengShuiKoi_Services.csproj|e:\\swp391\\koifengshui.be\\fungshuikoi_services\\adspackageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A3C476BE-7F15-4D01-89D7-FEABAB07B873}|FungShuiKoi_Services\\FengShuiKoi_Services.csproj|solutionrelative:fungshuikoi_services\\adspackageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A3C476BE-7F15-4D01-89D7-FEABAB07B873}|FungShuiKoi_Services\\FengShuiKoi_Services.csproj|e:\\swp391\\koifengshui.be\\fungshuikoi_services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A3C476BE-7F15-4D01-89D7-FEABAB07B873}|FungShuiKoi_Services\\FengShuiKoi_Services.csproj|solutionrelative:fungshuikoi_services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8860CED0-6413-4498-8BED-2A5ED7B172DD}|FungShuiKoi_Repository\\FengShuiKoi_Repository.csproj|e:\\swp391\\koifengshui.be\\fungshuikoi_repository\\shaperepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8860CED0-6413-4498-8BED-2A5ED7B172DD}|FungShuiKoi_Repository\\FengShuiKoi_Repository.csproj|solutionrelative:fungshuikoi_repository\\shaperepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8860CED0-6413-4498-8BED-2A5ED7B172DD}|FungShuiKoi_Repository\\FengShuiKoi_Repository.csproj|e:\\swp391\\koifengshui.be\\fungshuikoi_repository\\ishaperepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8860CED0-6413-4498-8BED-2A5ED7B172DD}|FungShuiKoi_Repository\\FengShuiKoi_Repository.csproj|solutionrelative:fungshuikoi_repository\\ishaperepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8860CED0-6413-4498-8BED-2A5ED7B172DD}|FungShuiKoi_Repository\\FengShuiKoi_Repository.csproj|e:\\swp391\\koifengshui.be\\fungshuikoi_repository\\pointofshaperepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8860CED0-6413-4498-8BED-2A5ED7B172DD}|FungShuiKoi_Repository\\FengShuiKoi_Repository.csproj|solutionrelative:fungshuikoi_repository\\pointofshaperepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8860CED0-6413-4498-8BED-2A5ED7B172DD}|FungShuiKoi_Repository\\FengShuiKoi_Repository.csproj|e:\\swp391\\koifengshui.be\\fungshuikoi_repository\\ipointofshaperepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8860CED0-6413-4498-8BED-2A5ED7B172DD}|FungShuiKoi_Repository\\FengShuiKoi_Repository.csproj|solutionrelative:fungshuikoi_repository\\ipointofshaperepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4FAF84D4-BFF3-456F-B4F0-A66847BF7E52}|FungShuiKoi_DAO\\FengShuiKoi_DAO.csproj|e:\\swp391\\koifengshui.be\\fungshuikoi_dao\\shapedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4FAF84D4-BFF3-456F-B4F0-A66847BF7E52}|FungShuiKoi_DAO\\FengShuiKoi_DAO.csproj|solutionrelative:fungshuikoi_dao\\shapedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4FAF84D4-BFF3-456F-B4F0-A66847BF7E52}|FungShuiKoi_DAO\\FengShuiKoi_DAO.csproj|e:\\swp391\\koifengshui.be\\fungshuikoi_dao\\pointofshapedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4FAF84D4-BFF3-456F-B4F0-A66847BF7E52}|FungShuiKoi_DAO\\FengShuiKoi_DAO.csproj|solutionrelative:fungshuikoi_dao\\pointofshapedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8860CED0-6413-4498-8BED-2A5ED7B172DD}|FungShuiKoi_Repository\\FengShuiKoi_Repository.csproj|e:\\swp391\\koifengshui.be\\fungshuikoi_repository\\packagerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8860CED0-6413-4498-8BED-2A5ED7B172DD}|FungShuiKoi_Repository\\FengShuiKoi_Repository.csproj|solutionrelative:fungshuikoi_repository\\packagerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8860CED0-6413-4498-8BED-2A5ED7B172DD}|FungShuiKoi_Repository\\FengShuiKoi_Repository.csproj|e:\\swp391\\koifengshui.be\\fungshuikoi_repository\\ipackagerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8860CED0-6413-4498-8BED-2A5ED7B172DD}|FungShuiKoi_Repository\\FengShuiKoi_Repository.csproj|solutionrelative:fungshuikoi_repository\\ipackagerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4FAF84D4-BFF3-456F-B4F0-A66847BF7E52}|FungShuiKoi_DAO\\FengShuiKoi_DAO.csproj|e:\\swp391\\koifengshui.be\\fungshuikoi_dao\\packagedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4FAF84D4-BFF3-456F-B4F0-A66847BF7E52}|FungShuiKoi_DAO\\FengShuiKoi_DAO.csproj|solutionrelative:fungshuikoi_dao\\packagedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5434EF19-00AB-4EB3-8065-2EBB0ADD566E}|FengShuiKoi_BO\\FengShuiKoi_BO.csproj|e:\\swp391\\koifengshui.be\\fengshuikoi_bo\\quantity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5434EF19-00AB-4EB3-8065-2EBB0ADD566E}|FengShuiKoi_BO\\FengShuiKoi_BO.csproj|solutionrelative:fengshuikoi_bo\\quantity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5434EF19-00AB-4EB3-8065-2EBB0ADD566E}|FengShuiKoi_BO\\FengShuiKoi_BO.csproj|e:\\swp391\\koifengshui.be\\fengshuikoi_bo\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5434EF19-00AB-4EB3-8065-2EBB0ADD566E}|FengShuiKoi_BO\\FengShuiKoi_BO.csproj|solutionrelative:fengshuikoi_bo\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5434EF19-00AB-4EB3-8065-2EBB0ADD566E}|FengShuiKoi_BO\\FengShuiKoi_BO.csproj|e:\\swp391\\koifengshui.be\\fengshuikoi_bo\\element.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5434EF19-00AB-4EB3-8065-2EBB0ADD566E}|FengShuiKoi_BO\\FengShuiKoi_BO.csproj|solutionrelative:fengshuikoi_bo\\element.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5434EF19-00AB-4EB3-8065-2EBB0ADD566E}|FengShuiKoi_BO\\FengShuiKoi_BO.csproj|e:\\swp391\\koifengshui.be\\fengshuikoi_bo\\direction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5434EF19-00AB-4EB3-8065-2EBB0ADD566E}|FengShuiKoi_BO\\FengShuiKoi_BO.csproj|solutionrelative:fengshuikoi_bo\\direction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5434EF19-00AB-4EB3-8065-2EBB0ADD566E}|FengShuiKoi_BO\\FengShuiKoi_BO.csproj|e:\\swp391\\koifengshui.be\\fengshuikoi_bo\\color.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5434EF19-00AB-4EB3-8065-2EBB0ADD566E}|FengShuiKoi_BO\\FengShuiKoi_BO.csproj|solutionrelative:fengshuikoi_bo\\color.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5434EF19-00AB-4EB3-8065-2EBB0ADD566E}|FengShuiKoi_BO\\FengShuiKoi_BO.csproj|e:\\swp391\\koifengshui.be\\fengshuikoi_bo\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5434EF19-00AB-4EB3-8065-2EBB0ADD566E}|FengShuiKoi_BO\\FengShuiKoi_BO.csproj|solutionrelative:fengshuikoi_bo\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5434EF19-00AB-4EB3-8065-2EBB0ADD566E}|FengShuiKoi_BO\\FengShuiKoi_BO.csproj|e:\\swp391\\koifengshui.be\\fengshuikoi_bo\\advertisement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5434EF19-00AB-4EB3-8065-2EBB0ADD566E}|FengShuiKoi_BO\\FengShuiKoi_BO.csproj|solutionrelative:fengshuikoi_bo\\advertisement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5434EF19-00AB-4EB3-8065-2EBB0ADD566E}|FengShuiKoi_BO\\FengShuiKoi_BO.csproj|e:\\swp391\\koifengshui.be\\fengshuikoi_bo\\adspackage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5434EF19-00AB-4EB3-8065-2EBB0ADD566E}|FengShuiKoi_BO\\FengShuiKoi_BO.csproj|solutionrelative:fengshuikoi_bo\\adspackage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5434EF19-00AB-4EB3-8065-2EBB0ADD566E}|FengShuiKoi_BO\\FengShuiKoi_BO.csproj|e:\\swp391\\koifengshui.be\\fengshuikoi_bo\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5434EF19-00AB-4EB3-8065-2EBB0ADD566E}|FengShuiKoi_BO\\FengShuiKoi_BO.csproj|solutionrelative:fengshuikoi_bo\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4FAF84D4-BFF3-456F-B4F0-A66847BF7E52}|FungShuiKoi_DAO\\FengShuiKoi_DAO.csproj|e:\\swp391\\koifengshui.be\\fungshuikoi_dao\\typecolordao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4FAF84D4-BFF3-456F-B4F0-A66847BF7E52}|FungShuiKoi_DAO\\FengShuiKoi_DAO.csproj|solutionrelative:fungshuikoi_dao\\typecolordao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4FAF84D4-BFF3-456F-B4F0-A66847BF7E52}|FungShuiKoi_DAO\\FengShuiKoi_DAO.csproj|e:\\swp391\\koifengshui.be\\fungshuikoi_dao\\quantitydao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4FAF84D4-BFF3-456F-B4F0-A66847BF7E52}|FungShuiKoi_DAO\\FengShuiKoi_DAO.csproj|solutionrelative:fungshuikoi_dao\\quantitydao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4FAF84D4-BFF3-456F-B4F0-A66847BF7E52}|FungShuiKoi_DAO\\FengShuiKoi_DAO.csproj|e:\\swp391\\koifengshui.be\\fungshuikoi_dao\\memberdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4FAF84D4-BFF3-456F-B4F0-A66847BF7E52}|FungShuiKoi_DAO\\FengShuiKoi_DAO.csproj|solutionrelative:fungshuikoi_dao\\memberdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4FAF84D4-BFF3-456F-B4F0-A66847BF7E52}|FungShuiKoi_DAO\\FengShuiKoi_DAO.csproj|e:\\swp391\\koifengshui.be\\fungshuikoi_dao\\lifeplacedirectiondao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4FAF84D4-BFF3-456F-B4F0-A66847BF7E52}|FungShuiKoi_DAO\\FengShuiKoi_DAO.csproj|solutionrelative:fungshuikoi_dao\\lifeplacedirectiondao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4FAF84D4-BFF3-456F-B4F0-A66847BF7E52}|FungShuiKoi_DAO\\FengShuiKoi_DAO.csproj|e:\\swp391\\koifengshui.be\\fungshuikoi_dao\\lifeplacedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4FAF84D4-BFF3-456F-B4F0-A66847BF7E52}|FungShuiKoi_DAO\\FengShuiKoi_DAO.csproj|solutionrelative:fungshuikoi_dao\\lifeplacedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4FAF84D4-BFF3-456F-B4F0-A66847BF7E52}|FungShuiKoi_DAO\\FengShuiKoi_DAO.csproj|e:\\swp391\\koifengshui.be\\fungshuikoi_dao\\koivarietydao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4FAF84D4-BFF3-456F-B4F0-A66847BF7E52}|FungShuiKoi_DAO\\FengShuiKoi_DAO.csproj|c:\\users\\admin\\downloads\\koifengshui.be.backup\\koifengshui.be\\fungshuikoi_dao\\koivarietydao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4FAF84D4-BFF3-456F-B4F0-A66847BF7E52}|FungShuiKoi_DAO\\FengShuiKoi_DAO.csproj|solutionrelative:fungshuikoi_dao\\koivarietydao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4FAF84D4-BFF3-456F-B4F0-A66847BF7E52}|FungShuiKoi_DAO\\FengShuiKoi_DAO.csproj|e:\\swp391\\koifengshui.be\\fungshuikoi_dao\\feedbackdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4FAF84D4-BFF3-456F-B4F0-A66847BF7E52}|FungShuiKoi_DAO\\FengShuiKoi_DAO.csproj|solutionrelative:fungshuikoi_dao\\feedbackdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A3C476BE-7F15-4D01-89D7-FEABAB07B873}|FungShuiKoi_Services\\FengShuiKoi_Services.csproj|c:\\users\\admin\\downloads\\koifengshui.be.backup\\koifengshui.be\\fungshuikoi_services\\elementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3C476BE-7F15-4D01-89D7-FEABAB07B873}|FungShuiKoi_Services\\FengShuiKoi_Services.csproj|solutionrelative:fungshuikoi_services\\elementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4FAF84D4-BFF3-456F-B4F0-A66847BF7E52}|FungShuiKoi_DAO\\FengShuiKoi_DAO.csproj|e:\\swp391\\koifengshui.be\\fungshuikoi_dao\\elementdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4FAF84D4-BFF3-456F-B4F0-A66847BF7E52}|FungShuiKoi_DAO\\FengShuiKoi_DAO.csproj|solutionrelative:fungshuikoi_dao\\elementdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5434EF19-00AB-4EB3-8065-2EBB0ADD566E}|FengShuiKoi_BO\\FengShuiKoi_BO.csproj|c:\\users\\admin\\downloads\\koifengshui.be.backup\\koifengshui.be\\fengshuikoi_bo\\element.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5434EF19-00AB-4EB3-8065-2EBB0ADD566E}|FengShuiKoi_BO\\FengShuiKoi_BO.csproj|solutionrelative:fengshuikoi_bo\\element.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4FAF84D4-BFF3-456F-B4F0-A66847BF7E52}|FungShuiKoi_DAO\\FengShuiKoi_DAO.csproj|e:\\swp391\\koifengshui.be\\fungshuikoi_dao\\elementcolordao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4FAF84D4-BFF3-456F-B4F0-A66847BF7E52}|FungShuiKoi_DAO\\FengShuiKoi_DAO.csproj|solutionrelative:fungshuikoi_dao\\elementcolordao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7E704CCD-1994-4984-BF6B-434F6CC93889}|KoiFengShui.BE\\KoiFengShui.BE.csproj|c:\\users\\admin\\downloads\\koifengshui.be.backup\\koifengshui.be\\koifengshui.be\\controllers\\elementmutualismcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E704CCD-1994-4984-BF6B-434F6CC93889}|KoiFengShui.BE\\KoiFengShui.BE.csproj|solutionrelative:koifengshui.be\\controllers\\elementmutualismcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4FAF84D4-BFF3-456F-B4F0-A66847BF7E52}|FungShuiKoi_DAO\\FengShuiKoi_DAO.csproj|e:\\swp391\\koifengshui.be\\fungshuikoi_dao\\directiondao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4FAF84D4-BFF3-456F-B4F0-A66847BF7E52}|FungShuiKoi_DAO\\FengShuiKoi_DAO.csproj|solutionrelative:fungshuikoi_dao\\directiondao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4FAF84D4-BFF3-456F-B4F0-A66847BF7E52}|FungShuiKoi_DAO\\FengShuiKoi_DAO.csproj|e:\\swp391\\koifengshui.be\\fungshuikoi_dao\\colordao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4FAF84D4-BFF3-456F-B4F0-A66847BF7E52}|FungShuiKoi_DAO\\FengShuiKoi_DAO.csproj|solutionrelative:fungshuikoi_dao\\colordao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4FAF84D4-BFF3-456F-B4F0-A66847BF7E52}|FungShuiKoi_DAO\\FengShuiKoi_DAO.csproj|e:\\swp391\\koifengshui.be\\fungshuikoi_dao\\blogdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4FAF84D4-BFF3-456F-B4F0-A66847BF7E52}|FungShuiKoi_DAO\\FengShuiKoi_DAO.csproj|solutionrelative:fungshuikoi_dao\\blogdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4FAF84D4-BFF3-456F-B4F0-A66847BF7E52}|FungShuiKoi_DAO\\FengShuiKoi_DAO.csproj|e:\\swp391\\koifengshui.be\\fungshuikoi_dao\\advertisementdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4FAF84D4-BFF3-456F-B4F0-A66847BF7E52}|FungShuiKoi_DAO\\FengShuiKoi_DAO.csproj|solutionrelative:fungshuikoi_dao\\advertisementdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4FAF84D4-BFF3-456F-B4F0-A66847BF7E52}|FungShuiKoi_DAO\\FengShuiKoi_DAO.csproj|e:\\swp391\\koifengshui.be\\fungshuikoi_dao\\accountdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4FAF84D4-BFF3-456F-B4F0-A66847BF7E52}|FungShuiKoi_DAO\\FengShuiKoi_DAO.csproj|solutionrelative:fungshuikoi_dao\\accountdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8860CED0-6413-4498-8BED-2A5ED7B172DD}|FungShuiKoi_Repository\\FengShuiKoi_Repository.csproj|e:\\swp391\\koifengshui.be\\fungshuikoi_repository\\lifeplacedirectionrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8860CED0-6413-4498-8BED-2A5ED7B172DD}|FungShuiKoi_Repository\\FengShuiKoi_Repository.csproj|solutionrelative:fungshuikoi_repository\\lifeplacedirectionrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8860CED0-6413-4498-8BED-2A5ED7B172DD}|FungShuiKoi_Repository\\FengShuiKoi_Repository.csproj|e:\\swp391\\koifengshui.be\\fungshuikoi_repository\\ilifeplacedirectionrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8860CED0-6413-4498-8BED-2A5ED7B172DD}|FungShuiKoi_Repository\\FengShuiKoi_Repository.csproj|solutionrelative:fungshuikoi_repository\\ilifeplacedirectionrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8860CED0-6413-4498-8BED-2A5ED7B172DD}|FungShuiKoi_Repository\\FengShuiKoi_Repository.csproj|e:\\swp391\\koifengshui.be\\fungshuikoi_repository\\lifeplacerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8860CED0-6413-4498-8BED-2A5ED7B172DD}|FungShuiKoi_Repository\\FengShuiKoi_Repository.csproj|solutionrelative:fungshuikoi_repository\\lifeplacerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8860CED0-6413-4498-8BED-2A5ED7B172DD}|FungShuiKoi_Repository\\FengShuiKoi_Repository.csproj|e:\\swp391\\koifengshui.be\\fungshuikoi_repository\\ilifeplacerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8860CED0-6413-4498-8BED-2A5ED7B172DD}|FungShuiKoi_Repository\\FengShuiKoi_Repository.csproj|solutionrelative:fungshuikoi_repository\\ilifeplacerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8860CED0-6413-4498-8BED-2A5ED7B172DD}|FungShuiKoi_Repository\\FengShuiKoi_Repository.csproj|e:\\swp391\\koifengshui.be\\fungshuikoi_repository\\elementcolorrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8860CED0-6413-4498-8BED-2A5ED7B172DD}|FungShuiKoi_Repository\\FengShuiKoi_Repository.csproj|solutionrelative:fungshuikoi_repository\\elementcolorrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8860CED0-6413-4498-8BED-2A5ED7B172DD}|FungShuiKoi_Repository\\FengShuiKoi_Repository.csproj|e:\\swp391\\koifengshui.be\\fungshuikoi_repository\\ielementcolorrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8860CED0-6413-4498-8BED-2A5ED7B172DD}|FungShuiKoi_Repository\\FengShuiKoi_Repository.csproj|solutionrelative:fungshuikoi_repository\\ielementcolorrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4FAF84D4-BFF3-456F-B4F0-A66847BF7E52}|FungShuiKoi_DAO\\FengShuiKoi_DAO.csproj|e:\\swp391\\koifengshui.be\\fungshuikoi_dao\\swp391_fengshuikoiconsulting_dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4FAF84D4-BFF3-456F-B4F0-A66847BF7E52}|FungShuiKoi_DAO\\FengShuiKoi_DAO.csproj|solutionrelative:fungshuikoi_dao\\swp391_fengshuikoiconsulting_dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8860CED0-6413-4498-8BED-2A5ED7B172DD}|FungShuiKoi_Repository\\FengShuiKoi_Repository.csproj|e:\\swp391\\koifengshui.be\\fungshuikoi_repository\\directionrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8860CED0-6413-4498-8BED-2A5ED7B172DD}|FungShuiKoi_Repository\\FengShuiKoi_Repository.csproj|solutionrelative:fungshuikoi_repository\\directionrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8860CED0-6413-4498-8BED-2A5ED7B172DD}|FungShuiKoi_Repository\\FengShuiKoi_Repository.csproj|e:\\swp391\\koifengshui.be\\fungshuikoi_repository\\idirectionrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8860CED0-6413-4498-8BED-2A5ED7B172DD}|FungShuiKoi_Repository\\FengShuiKoi_Repository.csproj|solutionrelative:fungshuikoi_repository\\idirectionrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8860CED0-6413-4498-8BED-2A5ED7B172DD}|FungShuiKoi_Repository\\FengShuiKoi_Repository.csproj|e:\\swp391\\koifengshui.be\\fungshuikoi_repository\\iadvertisementrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8860CED0-6413-4498-8BED-2A5ED7B172DD}|FungShuiKoi_Repository\\FengShuiKoi_Repository.csproj|solutionrelative:fungshuikoi_repository\\iadvertisementrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8860CED0-6413-4498-8BED-2A5ED7B172DD}|FungShuiKoi_Repository\\FengShuiKoi_Repository.csproj|e:\\swp391\\koifengshui.be\\fungshuikoi_repository\\icolorrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8860CED0-6413-4498-8BED-2A5ED7B172DD}|FungShuiKoi_Repository\\FengShuiKoi_Repository.csproj|solutionrelative:fungshuikoi_repository\\icolorrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4FAF84D4-BFF3-456F-B4F0-A66847BF7E52}|FungShuiKoi_DAO\\FengShuiKoi_DAO.csproj|e:\\swp391\\koifengshui.be\\fungshuikoi_dao\\fengshuikoi_dao.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{4FAF84D4-BFF3-456F-B4F0-A66847BF7E52}|FungShuiKoi_DAO\\FengShuiKoi_DAO.csproj|solutionrelative:fungshuikoi_dao\\fengshuikoi_dao.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8860CED0-6413-4498-8BED-2A5ED7B172DD}|FungShuiKoi_Repository\\FengShuiKoi_Repository.csproj|e:\\swp391\\koifengshui.be\\fungshuikoi_repository\\ielementrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8860CED0-6413-4498-8BED-2A5ED7B172DD}|FungShuiKoi_Repository\\FengShuiKoi_Repository.csproj|solutionrelative:fungshuikoi_repository\\ielementrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8860CED0-6413-4498-8BED-2A5ED7B172DD}|FungShuiKoi_Repository\\FengShuiKoi_Repository.csproj|e:\\swp391\\koifengshui.be\\fungshuikoi_repository\\colorrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8860CED0-6413-4498-8BED-2A5ED7B172DD}|FungShuiKoi_Repository\\FengShuiKoi_Repository.csproj|solutionrelative:fungshuikoi_repository\\colorrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8860CED0-6413-4498-8BED-2A5ED7B172DD}|FungShuiKoi_Repository\\FengShuiKoi_Repository.csproj|e:\\swp391\\koifengshui.be\\fungshuikoi_repository\\iblogrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8860CED0-6413-4498-8BED-2A5ED7B172DD}|FungShuiKoi_Repository\\FengShuiKoi_Repository.csproj|solutionrelative:fungshuikoi_repository\\iblogrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8860CED0-6413-4498-8BED-2A5ED7B172DD}|FungShuiKoi_Repository\\FengShuiKoi_Repository.csproj|e:\\swp391\\koifengshui.be\\fungshuikoi_repository\\ifeedbackrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8860CED0-6413-4498-8BED-2A5ED7B172DD}|FungShuiKoi_Repository\\FengShuiKoi_Repository.csproj|solutionrelative:fungshuikoi_repository\\ifeedbackrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8860CED0-6413-4498-8BED-2A5ED7B172DD}|FungShuiKoi_Repository\\FengShuiKoi_Repository.csproj|e:\\swp391\\koifengshui.be\\fungshuikoi_repository\\iaccountrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8860CED0-6413-4498-8BED-2A5ED7B172DD}|FungShuiKoi_Repository\\FengShuiKoi_Repository.csproj|solutionrelative:fungshuikoi_repository\\iaccountrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7E704CCD-1994-4984-BF6B-434F6CC93889}|KoiFengShui.BE\\KoiFengShui.BE.csproj|e:\\swp391\\koifengshui.be\\koifengshui.be\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7E704CCD-1994-4984-BF6B-434F6CC93889}|KoiFengShui.BE\\KoiFengShui.BE.csproj|solutionrelative:koifengshui.be\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8860CED0-6413-4498-8BED-2A5ED7B172DD}|FungShuiKoi_Repository\\FengShuiKoi_Repository.csproj|e:\\swp391\\koifengshui.be\\fungshuikoi_repository\\feedbackrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8860CED0-6413-4498-8BED-2A5ED7B172DD}|FungShuiKoi_Repository\\FengShuiKoi_Repository.csproj|solutionrelative:fungshuikoi_repository\\feedbackrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8860CED0-6413-4498-8BED-2A5ED7B172DD}|FungShuiKoi_Repository\\FengShuiKoi_Repository.csproj|e:\\swp391\\koifengshui.be\\fungshuikoi_repository\\blogrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8860CED0-6413-4498-8BED-2A5ED7B172DD}|FungShuiKoi_Repository\\FengShuiKoi_Repository.csproj|solutionrelative:fungshuikoi_repository\\blogrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8860CED0-6413-4498-8BED-2A5ED7B172DD}|FungShuiKoi_Repository\\FengShuiKoi_Repository.csproj|e:\\swp391\\koifengshui.be\\fungshuikoi_repository\\accountrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8860CED0-6413-4498-8BED-2A5ED7B172DD}|FungShuiKoi_Repository\\FengShuiKoi_Repository.csproj|solutionrelative:fungshuikoi_repository\\accountrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8860CED0-6413-4498-8BED-2A5ED7B172DD}|FungShuiKoi_Repository\\FengShuiKoi_Repository.csproj|e:\\swp391\\koifengshui.be\\fungshuikoi_repository\\adspackagerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8860CED0-6413-4498-8BED-2A5ED7B172DD}|FungShuiKoi_Repository\\FengShuiKoi_Repository.csproj|solutionrelative:fungshuikoi_repository\\adspackagerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8860CED0-6413-4498-8BED-2A5ED7B172DD}|FungShuiKoi_Repository\\FengShuiKoi_Repository.csproj|e:\\swp391\\koifengshui.be\\fungshuikoi_repository\\advertisementrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8860CED0-6413-4498-8BED-2A5ED7B172DD}|FungShuiKoi_Repository\\FengShuiKoi_Repository.csproj|solutionrelative:fungshuikoi_repository\\advertisementrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8860CED0-6413-4498-8BED-2A5ED7B172DD}|FungShuiKoi_Repository\\FengShuiKoi_Repository.csproj|e:\\swp391\\koifengshui.be\\fungshuikoi_repository\\iadspackagerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8860CED0-6413-4498-8BED-2A5ED7B172DD}|FungShuiKoi_Repository\\FengShuiKoi_Repository.csproj|solutionrelative:fungshuikoi_repository\\iadspackagerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8860CED0-6413-4498-8BED-2A5ED7B172DD}|FungShuiKoi_Repository\\FengShuiKoi_Repository.csproj|e:\\swp391\\koifengshui.be\\fungshuikoi_repository\\elementrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8860CED0-6413-4498-8BED-2A5ED7B172DD}|FungShuiKoi_Repository\\FengShuiKoi_Repository.csproj|solutionrelative:fungshuikoi_repository\\elementrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8860CED0-6413-4498-8BED-2A5ED7B172DD}|FungShuiKoi_Repository\\FengShuiKoi_Repository.csproj|e:\\swp391\\koifengshui.be\\fungshuikoi_repository\\itypecolorrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8860CED0-6413-4498-8BED-2A5ED7B172DD}|FungShuiKoi_Repository\\FengShuiKoi_Repository.csproj|solutionrelative:fungshuikoi_repository\\itypecolorrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8860CED0-6413-4498-8BED-2A5ED7B172DD}|FungShuiKoi_Repository\\FengShuiKoi_Repository.csproj|e:\\swp391\\koifengshui.be\\fungshuikoi_repository\\typecolorrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8860CED0-6413-4498-8BED-2A5ED7B172DD}|FungShuiKoi_Repository\\FengShuiKoi_Repository.csproj|solutionrelative:fungshuikoi_repository\\typecolorrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8860CED0-6413-4498-8BED-2A5ED7B172DD}|FungShuiKoi_Repository\\FengShuiKoi_Repository.csproj|e:\\swp391\\koifengshui.be\\fungshuikoi_repository\\quantityrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8860CED0-6413-4498-8BED-2A5ED7B172DD}|FungShuiKoi_Repository\\FengShuiKoi_Repository.csproj|solutionrelative:fungshuikoi_repository\\quantityrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8860CED0-6413-4498-8BED-2A5ED7B172DD}|FungShuiKoi_Repository\\FengShuiKoi_Repository.csproj|e:\\swp391\\koifengshui.be\\fungshuikoi_repository\\koivarietyrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8860CED0-6413-4498-8BED-2A5ED7B172DD}|FungShuiKoi_Repository\\FengShuiKoi_Repository.csproj|solutionrelative:fungshuikoi_repository\\koivarietyrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8860CED0-6413-4498-8BED-2A5ED7B172DD}|FungShuiKoi_Repository\\FengShuiKoi_Repository.csproj|e:\\swp391\\koifengshui.be\\fungshuikoi_repository\\iquantityrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8860CED0-6413-4498-8BED-2A5ED7B172DD}|FungShuiKoi_Repository\\FengShuiKoi_Repository.csproj|solutionrelative:fungshuikoi_repository\\iquantityrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8860CED0-6413-4498-8BED-2A5ED7B172DD}|FungShuiKoi_Repository\\FengShuiKoi_Repository.csproj|e:\\swp391\\koifengshui.be\\fungshuikoi_repository\\ikoivarietyrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8860CED0-6413-4498-8BED-2A5ED7B172DD}|FungShuiKoi_Repository\\FengShuiKoi_Repository.csproj|solutionrelative:fungshuikoi_repository\\ikoivarietyrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8860CED0-6413-4498-8BED-2A5ED7B172DD}|FungShuiKoi_Repository\\FengShuiKoi_Repository.csproj|e:\\swp391\\koifengshui.be\\fungshuikoi_repository\\memberrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8860CED0-6413-4498-8BED-2A5ED7B172DD}|FungShuiKoi_Repository\\FengShuiKoi_Repository.csproj|solutionrelative:fungshuikoi_repository\\memberrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8860CED0-6413-4498-8BED-2A5ED7B172DD}|FungShuiKoi_Repository\\FengShuiKoi_Repository.csproj|e:\\swp391\\koifengshui.be\\fungshuikoi_repository\\imemberrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8860CED0-6413-4498-8BED-2A5ED7B172DD}|FungShuiKoi_Repository\\FengShuiKoi_Repository.csproj|solutionrelative:fungshuikoi_repository\\imemberrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8860CED0-6413-4498-8BED-2A5ED7B172DD}|FungShuiKoi_Repository\\FengShuiKoi_Repository.csproj|e:\\swp391\\koifengshui.be\\fungshuikoi_repository\\tokenservice\\itoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8860CED0-6413-4498-8BED-2A5ED7B172DD}|FungShuiKoi_Repository\\FengShuiKoi_Repository.csproj|solutionrelative:fungshuikoi_repository\\tokenservice\\itoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8860CED0-6413-4498-8BED-2A5ED7B172DD}|FungShuiKoi_Repository\\FengShuiKoi_Repository.csproj|e:\\swp391\\koifengshui.be\\fungshuikoi_repository\\tokenservice\\token.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8860CED0-6413-4498-8BED-2A5ED7B172DD}|FungShuiKoi_Repository\\FengShuiKoi_Repository.csproj|solutionrelative:fungshuikoi_repository\\tokenservice\\token.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7E704CCD-1994-4984-BF6B-434F6CC93889}|KoiFengShui.BE\\KoiFengShui.BE.csproj|e:\\swp391\\koifengshui.be\\koifengshui.be\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7E704CCD-1994-4984-BF6B-434F6CC93889}|KoiFengShui.BE\\KoiFengShui.BE.csproj|c:\\users\\admin\\downloads\\koifengshui.be.backup\\koifengshui.be\\koifengshui.be\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7E704CCD-1994-4984-BF6B-434F6CC93889}|KoiFengShui.BE\\KoiFengShui.BE.csproj|solutionrelative:koifengshui.be\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7E704CCD-1994-4984-BF6B-434F6CC93889}|KoiFengShui.BE\\KoiFengShui.BE.csproj|e:\\swp391\\koifengshui.be\\koifengshui.be\\model\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7E704CCD-1994-4984-BF6B-434F6CC93889}|KoiFengShui.BE\\KoiFengShui.BE.csproj|solutionrelative:koifengshui.be\\model\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A3C476BE-7F15-4D01-89D7-FEABAB07B873}|FungShuiKoi_Services\\FengShuiKoi_Services.csproj|c:\\users\\admin\\downloads\\koifengshui.be.backup\\koifengshui.be\\fungshuikoi_services\\ielementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3C476BE-7F15-4D01-89D7-FEABAB07B873}|FungShuiKoi_Services\\FengShuiKoi_Services.csproj|solutionrelative:fungshuikoi_services\\ielementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7E704CCD-1994-4984-BF6B-434F6CC93889}|KoiFengShui.BE\\KoiFengShui.BE.csproj|e:\\swp391\\koifengshui.be\\koifengshui.be\\model\\googleuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7E704CCD-1994-4984-BF6B-434F6CC93889}|KoiFengShui.BE\\KoiFengShui.BE.csproj|solutionrelative:koifengshui.be\\model\\googleuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7E704CCD-1994-4984-BF6B-434F6CC93889}|KoiFengShui.BE\\KoiFengShui.BE.csproj|c:\\users\\admin\\downloads\\koifengshui.be.backup\\koifengshui.be\\koifengshui.be\\controllers\\pondcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E704CCD-1994-4984-BF6B-434F6CC93889}|KoiFengShui.BE\\KoiFengShui.BE.csproj|solutionrelative:koifengshui.be\\controllers\\pondcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7E704CCD-1994-4984-BF6B-434F6CC93889}|KoiFengShui.BE\\KoiFengShui.BE.csproj|e:\\swp391\\koifengshui.be\\koifengshui.be\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{7E704CCD-1994-4984-BF6B-434F6CC93889}|KoiFengShui.BE\\KoiFengShui.BE.csproj|solutionrelative:koifengshui.be\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{7E704CCD-1994-4984-BF6B-434F6CC93889}|KoiFengShui.BE\\KoiFengShui.BE.csproj|c:\\users\\admin\\downloads\\koifengshui.be.backup\\koifengshui.be\\koifengshui.be\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E704CCD-1994-4984-BF6B-434F6CC93889}|KoiFengShui.BE\\KoiFengShui.BE.csproj|solutionrelative:koifengshui.be\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7E704CCD-1994-4984-BF6B-434F6CC93889}|KoiFengShui.BE\\KoiFengShui.BE.csproj|e:\\swp391\\koifengshui.be\\koifengshui.be\\model\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7E704CCD-1994-4984-BF6B-434F6CC93889}|KoiFengShui.BE\\KoiFengShui.BE.csproj|solutionrelative:koifengshui.be\\model\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A3C476BE-7F15-4D01-89D7-FEABAB07B873}|FungShuiKoi_Services\\FengShuiKoi_Services.csproj|c:\\users\\admin\\downloads\\koifengshui.be.backup\\koifengshui.be\\fungshuikoi_services\\quantityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3C476BE-7F15-4D01-89D7-FEABAB07B873}|FungShuiKoi_Services\\FengShuiKoi_Services.csproj|solutionrelative:fungshuikoi_services\\quantityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5434EF19-00AB-4EB3-8065-2EBB0ADD566E}|FengShuiKoi_BO\\FengShuiKoi_BO.csproj|e:\\swp391\\koifengshui.be\\fengshuikoi_bo\\fengshuikoi_bo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{8860CED0-6413-4498-8BED-2A5ED7B172DD}|FungShuiKoi_Repository\\FengShuiKoi_Repository.csproj|c:\\users\\admin\\downloads\\koifengshui.be.backup\\koifengshui.be\\fungshuikoi_repository\\quantityrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8860CED0-6413-4498-8BED-2A5ED7B172DD}|FungShuiKoi_Repository\\FengShuiKoi_Repository.csproj|solutionrelative:fungshuikoi_repository\\quantityrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FAF84D4-BFF3-456F-B4F0-A66847BF7E52}|FungShuiKoi_DAO\\FengShuiKoi_DAO.csproj|c:\\users\\admin\\downloads\\koifengshui.be.backup\\koifengshui.be\\fungshuikoi_dao\\quantitydao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FAF84D4-BFF3-456F-B4F0-A66847BF7E52}|FungShuiKoi_DAO\\FengShuiKoi_DAO.csproj|solutionrelative:fungshuikoi_dao\\quantitydao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5434EF19-00AB-4EB3-8065-2EBB0ADD566E}|FengShuiKoi_BO\\FengShuiKoi_BO.csproj|c:\\users\\admin\\downloads\\koifengshui.be.backup\\koifengshui.be\\fengshuikoi_bo\\quantity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5434EF19-00AB-4EB3-8065-2EBB0ADD566E}|FengShuiKoi_BO\\FengShuiKoi_BO.csproj|solutionrelative:fengshuikoi_bo\\quantity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5434EF19-00AB-4EB3-8065-2EBB0ADD566E}|FengShuiKoi_BO\\FengShuiKoi_BO.csproj|c:\\users\\admin\\downloads\\koifengshui.be.backup\\koifengshui.be\\fengshuikoi_bo\\fengshuikoi_bo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{5434EF19-00AB-4EB3-8065-2EBB0ADD566E}|FengShuiKoi_BO\\FengShuiKoi_BO.csproj|solutionrelative:fengshuikoi_bo\\fengshuikoi_bo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7E704CCD-1994-4984-BF6B-434F6CC93889}|KoiFengShui.BE\\KoiFengShui.BE.csproj|e:\\swp391\\koifengshui.be\\koifengshui.be\\koifengshui.be.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{7E704CCD-1994-4984-BF6B-434F6CC93889}|KoiFengShui.BE\\KoiFengShui.BE.csproj|solutionrelative:koifengshui.be\\koifengshui.be.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{A3C476BE-7F15-4D01-89D7-FEABAB07B873}|FungShuiKoi_Services\\FengShuiKoi_Services.csproj|c:\\users\\admin\\downloads\\koifengshui.be.backup\\koifengshui.be\\fungshuikoi_services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3C476BE-7F15-4D01-89D7-FEABAB07B873}|FungShuiKoi_Services\\FengShuiKoi_Services.csproj|solutionrelative:fungshuikoi_services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -449,1423 +73,215 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 192,
-          "SelectedChildIndex": 8,
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "KoiVarietyService.cs",
-              "DocumentMoniker": "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_Services\\KoiVarietyService.cs",
-              "RelativeDocumentMoniker": "FungShuiKoi_Services\\KoiVarietyService.cs",
-              "ToolTip": "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_Services\\KoiVarietyService.cs",
-              "RelativeToolTip": "FungShuiKoi_Services\\KoiVarietyService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T07:58:09.648Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "LifePlaceDirectionService.cs",
-              "DocumentMoniker": "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_Services\\LifePlaceDirectionService.cs",
-              "RelativeDocumentMoniker": "FungShuiKoi_Services\\LifePlaceDirectionService.cs",
-              "ToolTip": "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_Services\\LifePlaceDirectionService.cs",
-              "RelativeToolTip": "FungShuiKoi_Services\\LifePlaceDirectionService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T11:49:21.485Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "LifePlaceService.cs",
-              "DocumentMoniker": "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_Services\\LifePlaceService.cs",
-              "RelativeDocumentMoniker": "FungShuiKoi_Services\\LifePlaceService.cs",
-              "ToolTip": "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_Services\\LifePlaceService.cs",
-              "RelativeToolTip": "FungShuiKoi_Services\\LifePlaceService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T11:47:06.593Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "MemberService.cs",
-              "DocumentMoniker": "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_Services\\MemberService.cs",
-              "RelativeDocumentMoniker": "FungShuiKoi_Services\\MemberService.cs",
-              "ToolTip": "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_Services\\MemberService.cs",
-              "RelativeToolTip": "FungShuiKoi_Services\\MemberService.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAiwB8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-29T03:28:22.535Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "PackageService.cs",
-              "DocumentMoniker": "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_Services\\PackageService.cs",
-              "RelativeDocumentMoniker": "FungShuiKoi_Services\\PackageService.cs",
-              "ToolTip": "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_Services\\PackageService.cs",
-              "RelativeToolTip": "FungShuiKoi_Services\\PackageService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T11:55:58.613Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "PointOfShapeService.cs",
-              "DocumentMoniker": "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_Services\\PointOfShapeService.cs",
-              "RelativeDocumentMoniker": "FungShuiKoi_Services\\PointOfShapeService.cs",
-              "ToolTip": "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_Services\\PointOfShapeService.cs",
-              "RelativeToolTip": "FungShuiKoi_Services\\PointOfShapeService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Title": "ElementService.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\KoiFengShui.BE.BACKUP\\KoiFengShui.BE\\FungShuiKoi_Services\\ElementService.cs",
+              "RelativeDocumentMoniker": "FungShuiKoi_Services\\ElementService.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\KoiFengShui.BE.BACKUP\\KoiFengShui.BE\\FungShuiKoi_Services\\ElementService.cs",
+              "RelativeToolTip": "FungShuiKoi_Services\\ElementService.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAIwBEAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T11:59:23.263Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "QuantityService.cs",
-              "DocumentMoniker": "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_Services\\QuantityService.cs",
-              "RelativeDocumentMoniker": "FungShuiKoi_Services\\QuantityService.cs",
-              "ToolTip": "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_Services\\QuantityService.cs",
-              "RelativeToolTip": "FungShuiKoi_Services\\QuantityService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T07:04:47.876Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ShapeService.cs",
-              "DocumentMoniker": "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_Services\\ShapeService.cs",
-              "RelativeDocumentMoniker": "FungShuiKoi_Services\\ShapeService.cs",
-              "ToolTip": "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_Services\\ShapeService.cs",
-              "RelativeToolTip": "FungShuiKoi_Services\\ShapeService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T12:00:39.842Z",
+              "WhenOpened": "2024-09-30T11:29:58.08Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "TypeColorService.cs",
-              "DocumentMoniker": "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_Services\\TypeColorService.cs",
-              "RelativeDocumentMoniker": "FungShuiKoi_Services\\TypeColorService.cs",
-              "ToolTip": "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_Services\\TypeColorService.cs",
-              "RelativeToolTip": "FungShuiKoi_Services\\TypeColorService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABvAAAAAAAAAA==",
+              "Title": "KoiVarietyController.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\KoiFengShui.BE.BACKUP\\KoiFengShui.BE\\KoiFengShui.BE\\Controllers\\KoiVarietyController.cs",
+              "RelativeDocumentMoniker": "KoiFengShui.BE\\Controllers\\KoiVarietyController.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\KoiFengShui.BE.BACKUP\\KoiFengShui.BE\\KoiFengShui.BE\\Controllers\\KoiVarietyController.cs",
+              "RelativeToolTip": "KoiFengShui.BE\\Controllers\\KoiVarietyController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAA5wDIAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T08:14:08.896Z",
+              "WhenOpened": "2024-09-30T11:25:10.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ElementMutualismController.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\KoiFengShui.BE.BACKUP\\KoiFengShui.BE\\KoiFengShui.BE\\Controllers\\ElementMutualismController.cs",
+              "RelativeDocumentMoniker": "KoiFengShui.BE\\Controllers\\ElementMutualismController.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\KoiFengShui.BE.BACKUP\\KoiFengShui.BE\\KoiFengShui.BE\\Controllers\\ElementMutualismController.cs",
+              "RelativeToolTip": "KoiFengShui.BE\\Controllers\\ElementMutualismController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA5wCMAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T09:16:34.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Element.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\KoiFengShui.BE.BACKUP\\KoiFengShui.BE\\FengShuiKoi_BO\\Element.cs",
+              "RelativeDocumentMoniker": "FengShuiKoi_BO\\Element.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\KoiFengShui.BE.BACKUP\\KoiFengShui.BE\\FengShuiKoi_BO\\Element.cs",
+              "RelativeToolTip": "FengShuiKoi_BO\\Element.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T10:17:22.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "KoiVarietyService.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\KoiFengShui.BE.BACKUP\\KoiFengShui.BE\\FungShuiKoi_Services\\KoiVarietyService.cs",
+              "RelativeDocumentMoniker": "FungShuiKoi_Services\\KoiVarietyService.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\KoiFengShui.BE.BACKUP\\KoiFengShui.BE\\FungShuiKoi_Services\\KoiVarietyService.cs",
+              "RelativeToolTip": "FungShuiKoi_Services\\KoiVarietyService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T09:13:36.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PondController.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\KoiFengShui.BE.BACKUP\\KoiFengShui.BE\\KoiFengShui.BE\\Controllers\\PondController.cs",
+              "RelativeDocumentMoniker": "KoiFengShui.BE\\Controllers\\PondController.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\KoiFengShui.BE.BACKUP\\KoiFengShui.BE\\KoiFengShui.BE\\Controllers\\PondController.cs",
+              "RelativeToolTip": "KoiFengShui.BE\\Controllers\\PondController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T10:57:08.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "KoiVarietyDAO.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\KoiFengShui.BE.BACKUP\\KoiFengShui.BE\\FungShuiKoi_DAO\\KoiVarietyDAO.cs",
+              "RelativeDocumentMoniker": "FungShuiKoi_DAO\\KoiVarietyDAO.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\KoiFengShui.BE.BACKUP\\KoiFengShui.BE\\FungShuiKoi_DAO\\KoiVarietyDAO.cs",
+              "RelativeToolTip": "FungShuiKoi_DAO\\KoiVarietyDAO.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAYwDQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T09:05:22.505Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "ITypeColorService.cs",
-              "DocumentMoniker": "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_Services\\ITypeColorService.cs",
-              "RelativeDocumentMoniker": "FungShuiKoi_Services\\ITypeColorService.cs",
-              "ToolTip": "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_Services\\ITypeColorService.cs",
-              "RelativeToolTip": "FungShuiKoi_Services\\ITypeColorService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABCAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\KoiFengShui.BE.BACKUP\\KoiFengShui.BE\\KoiFengShui.BE\\Program.cs",
+              "RelativeDocumentMoniker": "KoiFengShui.BE\\Program.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\KoiFengShui.BE.BACKUP\\KoiFengShui.BE\\KoiFengShui.BE\\Program.cs",
+              "RelativeToolTip": "KoiFengShui.BE\\Program.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAUwDYAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T08:13:17.826Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "IShapeService.cs",
-              "DocumentMoniker": "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_Services\\IShapeService.cs",
-              "RelativeDocumentMoniker": "FungShuiKoi_Services\\IShapeService.cs",
-              "ToolTip": "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_Services\\IShapeService.cs",
-              "RelativeToolTip": "FungShuiKoi_Services\\IShapeService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T12:00:23.061Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "IQuantityService.cs",
-              "DocumentMoniker": "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_Services\\IQuantityService.cs",
-              "RelativeDocumentMoniker": "FungShuiKoi_Services\\IQuantityService.cs",
-              "ToolTip": "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_Services\\IQuantityService.cs",
-              "RelativeToolTip": "FungShuiKoi_Services\\IQuantityService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA9AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T07:03:29.31Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "IPointOfShapeService.cs",
-              "DocumentMoniker": "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_Services\\IPointOfShapeService.cs",
-              "RelativeDocumentMoniker": "FungShuiKoi_Services\\IPointOfShapeService.cs",
-              "ToolTip": "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_Services\\IPointOfShapeService.cs",
-              "RelativeToolTip": "FungShuiKoi_Services\\IPointOfShapeService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T11:59:00.749Z",
+              "WhenOpened": "2024-09-30T10:10:23.979Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
-              "Title": "IPackageService.cs",
-              "DocumentMoniker": "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_Services\\IPackageService.cs",
-              "RelativeDocumentMoniker": "FungShuiKoi_Services\\IPackageService.cs",
-              "ToolTip": "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_Services\\IPackageService.cs",
-              "RelativeToolTip": "FungShuiKoi_Services\\IPackageService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Title": "Quantity.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\KoiFengShui.BE.BACKUP\\KoiFengShui.BE\\FengShuiKoi_BO\\Quantity.cs",
+              "RelativeDocumentMoniker": "FengShuiKoi_BO\\Quantity.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\KoiFengShui.BE.BACKUP\\KoiFengShui.BE\\FengShuiKoi_BO\\Quantity.cs",
+              "RelativeToolTip": "FengShuiKoi_BO\\Quantity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T11:55:39.345Z",
+              "WhenOpened": "2024-09-30T10:49:21.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IElementService.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\KoiFengShui.BE.BACKUP\\KoiFengShui.BE\\FungShuiKoi_Services\\IElementService.cs",
+              "RelativeDocumentMoniker": "FungShuiKoi_Services\\IElementService.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\KoiFengShui.BE.BACKUP\\KoiFengShui.BE\\FungShuiKoi_Services\\IElementService.cs",
+              "RelativeToolTip": "FungShuiKoi_Services\\IElementService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T11:30:20.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\KoiFengShui.BE.BACKUP\\KoiFengShui.BE\\KoiFengShui.BE\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "KoiFengShui.BE\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\KoiFengShui.BE.BACKUP\\KoiFengShui.BE\\KoiFengShui.BE\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "KoiFengShui.BE\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T11:35:25.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "QuantityDAO.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\KoiFengShui.BE.BACKUP\\KoiFengShui.BE\\FungShuiKoi_DAO\\QuantityDAO.cs",
+              "RelativeDocumentMoniker": "FungShuiKoi_DAO\\QuantityDAO.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\KoiFengShui.BE.BACKUP\\KoiFengShui.BE\\FungShuiKoi_DAO\\QuantityDAO.cs",
+              "RelativeToolTip": "FungShuiKoi_DAO\\QuantityDAO.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACAAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T10:49:33.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "QuantityRepo.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\KoiFengShui.BE.BACKUP\\KoiFengShui.BE\\FungShuiKoi_Repository\\QuantityRepo.cs",
+              "RelativeDocumentMoniker": "FungShuiKoi_Repository\\QuantityRepo.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\KoiFengShui.BE.BACKUP\\KoiFengShui.BE\\FungShuiKoi_Repository\\QuantityRepo.cs",
+              "RelativeToolTip": "FungShuiKoi_Repository\\QuantityRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T10:49:59.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "QuantityService.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\KoiFengShui.BE.BACKUP\\KoiFengShui.BE\\FungShuiKoi_Services\\QuantityService.cs",
+              "RelativeDocumentMoniker": "FungShuiKoi_Services\\QuantityService.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\KoiFengShui.BE.BACKUP\\KoiFengShui.BE\\FungShuiKoi_Services\\QuantityService.cs",
+              "RelativeToolTip": "FungShuiKoi_Services\\QuantityService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T10:50:11.478Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
-              "Title": "IMemberService.cs",
-              "DocumentMoniker": "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_Services\\IMemberService.cs",
-              "RelativeDocumentMoniker": "FungShuiKoi_Services\\IMemberService.cs",
-              "ToolTip": "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_Services\\IMemberService.cs",
-              "RelativeToolTip": "FungShuiKoi_Services\\IMemberService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-29T03:22:34.24Z",
+              "Title": "FengShuiKoi_BO",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\KoiFengShui.BE.BACKUP\\KoiFengShui.BE\\FengShuiKoi_BO\\FengShuiKoi_BO.csproj",
+              "RelativeDocumentMoniker": "FengShuiKoi_BO\\FengShuiKoi_BO.csproj",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\KoiFengShui.BE.BACKUP\\KoiFengShui.BE\\FengShuiKoi_BO\\FengShuiKoi_BO.csproj",
+              "RelativeToolTip": "FengShuiKoi_BO\\FengShuiKoi_BO.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-30T10:17:14.831Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 15,
-              "Title": "ILifePlaceService.cs",
-              "DocumentMoniker": "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_Services\\ILifePlaceService.cs",
-              "RelativeDocumentMoniker": "FungShuiKoi_Services\\ILifePlaceService.cs",
-              "ToolTip": "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_Services\\ILifePlaceService.cs",
-              "RelativeToolTip": "FungShuiKoi_Services\\ILifePlaceService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T11:46:47.994Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "ILifePlaceDirectionService.cs",
-              "DocumentMoniker": "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_Services\\ILifePlaceDirectionService.cs",
-              "RelativeDocumentMoniker": "FungShuiKoi_Services\\ILifePlaceDirectionService.cs",
-              "ToolTip": "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_Services\\ILifePlaceDirectionService.cs",
-              "RelativeToolTip": "FungShuiKoi_Services\\ILifePlaceDirectionService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T11:48:57.294Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "IKoiVarietyService.cs",
-              "DocumentMoniker": "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_Services\\IKoiVarietyService.cs",
-              "RelativeDocumentMoniker": "FungShuiKoi_Services\\IKoiVarietyService.cs",
-              "ToolTip": "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_Services\\IKoiVarietyService.cs",
-              "RelativeToolTip": "FungShuiKoi_Services\\IKoiVarietyService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T07:57:51.324Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "IFeedbackService.cs",
-              "DocumentMoniker": "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_Services\\IFeedbackService.cs",
-              "RelativeDocumentMoniker": "FungShuiKoi_Services\\IFeedbackService.cs",
-              "ToolTip": "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_Services\\IFeedbackService.cs",
-              "RelativeToolTip": "FungShuiKoi_Services\\IFeedbackService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T11:18:06.199Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "IElementService.cs",
-              "DocumentMoniker": "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_Services\\IElementService.cs",
-              "RelativeDocumentMoniker": "FungShuiKoi_Services\\IElementService.cs",
-              "ToolTip": "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_Services\\IElementService.cs",
-              "RelativeToolTip": "FungShuiKoi_Services\\IElementService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA+AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T07:19:43.627Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "IElementColorService.cs",
-              "DocumentMoniker": "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_Services\\IElementColorService.cs",
-              "RelativeDocumentMoniker": "FungShuiKoi_Services\\IElementColorService.cs",
-              "ToolTip": "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_Services\\IElementColorService.cs",
-              "RelativeToolTip": "FungShuiKoi_Services\\IElementColorService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T11:43:39.786Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "IDirectionService.cs",
-              "DocumentMoniker": "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_Services\\IDirectionService.cs",
-              "RelativeDocumentMoniker": "FungShuiKoi_Services\\IDirectionService.cs",
-              "ToolTip": "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_Services\\IDirectionService.cs",
-              "RelativeToolTip": "FungShuiKoi_Services\\IDirectionService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T11:40:01.488Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "IColorService.cs",
-              "DocumentMoniker": "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_Services\\IColorService.cs",
-              "RelativeDocumentMoniker": "FungShuiKoi_Services\\IColorService.cs",
-              "ToolTip": "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_Services\\IColorService.cs",
-              "RelativeToolTip": "FungShuiKoi_Services\\IColorService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T11:33:08.051Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "IBlogService.cs",
-              "DocumentMoniker": "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_Services\\IBlogService.cs",
-              "RelativeDocumentMoniker": "FungShuiKoi_Services\\IBlogService.cs",
-              "ToolTip": "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_Services\\IBlogService.cs",
-              "RelativeToolTip": "FungShuiKoi_Services\\IBlogService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T10:52:49.552Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "IAdvertisementService.cs",
-              "DocumentMoniker": "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_Services\\IAdvertisementService.cs",
-              "RelativeDocumentMoniker": "FungShuiKoi_Services\\IAdvertisementService.cs",
-              "ToolTip": "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_Services\\IAdvertisementService.cs",
-              "RelativeToolTip": "FungShuiKoi_Services\\IAdvertisementService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T10:34:20.932Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "IAdsPackageService.cs",
-              "DocumentMoniker": "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_Services\\IAdsPackageService.cs",
-              "RelativeDocumentMoniker": "FungShuiKoi_Services\\IAdsPackageService.cs",
-              "ToolTip": "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_Services\\IAdsPackageService.cs",
-              "RelativeToolTip": "FungShuiKoi_Services\\IAdsPackageService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T10:11:17.291Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "IAccountService.cs",
-              "DocumentMoniker": "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_Services\\IAccountService.cs",
-              "RelativeDocumentMoniker": "FungShuiKoi_Services\\IAccountService.cs",
-              "ToolTip": "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_Services\\IAccountService.cs",
-              "RelativeToolTip": "FungShuiKoi_Services\\IAccountService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-29T03:17:19.687Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "FeedbackService.cs",
-              "DocumentMoniker": "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_Services\\FeedbackService.cs",
-              "RelativeDocumentMoniker": "FungShuiKoi_Services\\FeedbackService.cs",
-              "ToolTip": "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_Services\\FeedbackService.cs",
-              "RelativeToolTip": "FungShuiKoi_Services\\FeedbackService.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAgwBkAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T11:20:30.747Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "ElementService.cs",
-              "DocumentMoniker": "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_Services\\ElementService.cs",
-              "RelativeDocumentMoniker": "FungShuiKoi_Services\\ElementService.cs",
-              "ToolTip": "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_Services\\ElementService.cs",
-              "RelativeToolTip": "FungShuiKoi_Services\\ElementService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T07:19:28.196Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "ElementColorService.cs",
-              "DocumentMoniker": "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_Services\\ElementColorService.cs",
-              "RelativeDocumentMoniker": "FungShuiKoi_Services\\ElementColorService.cs",
-              "ToolTip": "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_Services\\ElementColorService.cs",
-              "RelativeToolTip": "FungShuiKoi_Services\\ElementColorService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T11:44:13.761Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "DirectionService.cs",
-              "DocumentMoniker": "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_Services\\DirectionService.cs",
-              "RelativeDocumentMoniker": "FungShuiKoi_Services\\DirectionService.cs",
-              "ToolTip": "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_Services\\DirectionService.cs",
-              "RelativeToolTip": "FungShuiKoi_Services\\DirectionService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T11:40:37.937Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "ColorService.cs",
-              "DocumentMoniker": "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_Services\\ColorService.cs",
-              "RelativeDocumentMoniker": "FungShuiKoi_Services\\ColorService.cs",
-              "ToolTip": "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_Services\\ColorService.cs",
-              "RelativeToolTip": "FungShuiKoi_Services\\ColorService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABLAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T11:33:45.81Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "BlogService.cs",
-              "DocumentMoniker": "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_Services\\BlogService.cs",
-              "RelativeDocumentMoniker": "FungShuiKoi_Services\\BlogService.cs",
-              "ToolTip": "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_Services\\BlogService.cs",
-              "RelativeToolTip": "FungShuiKoi_Services\\BlogService.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAgwCsAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T10:53:19.339Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "AdvertisementService.cs",
-              "DocumentMoniker": "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_Services\\AdvertisementService.cs",
-              "RelativeDocumentMoniker": "FungShuiKoi_Services\\AdvertisementService.cs",
-              "ToolTip": "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_Services\\AdvertisementService.cs",
-              "RelativeToolTip": "FungShuiKoi_Services\\AdvertisementService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T10:35:15.332Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "AdsPackageService.cs",
-              "DocumentMoniker": "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_Services\\AdsPackageService.cs",
-              "RelativeDocumentMoniker": "FungShuiKoi_Services\\AdsPackageService.cs",
-              "ToolTip": "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_Services\\AdsPackageService.cs",
-              "RelativeToolTip": "FungShuiKoi_Services\\AdsPackageService.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAwBAAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T10:15:17.914Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
               "Title": "AccountService.cs",
-              "DocumentMoniker": "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_Services\\AccountService.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\KoiFengShui.BE.BACKUP\\KoiFengShui.BE\\FungShuiKoi_Services\\AccountService.cs",
               "RelativeDocumentMoniker": "FungShuiKoi_Services\\AccountService.cs",
-              "ToolTip": "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_Services\\AccountService.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\KoiFengShui.BE.BACKUP\\KoiFengShui.BE\\FungShuiKoi_Services\\AccountService.cs",
               "RelativeToolTip": "FungShuiKoi_Services\\AccountService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-29T03:18:15.876Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 36,
-              "Title": "ShapeRepo.cs",
-              "DocumentMoniker": "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_Repository\\ShapeRepo.cs",
-              "RelativeDocumentMoniker": "FungShuiKoi_Repository\\ShapeRepo.cs",
-              "ToolTip": "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_Repository\\ShapeRepo.cs",
-              "RelativeToolTip": "FungShuiKoi_Repository\\ShapeRepo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T12:00:02.497Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 37,
-              "Title": "IShapeRepo.cs",
-              "DocumentMoniker": "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_Repository\\IShapeRepo.cs",
-              "RelativeDocumentMoniker": "FungShuiKoi_Repository\\IShapeRepo.cs",
-              "ToolTip": "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_Repository\\IShapeRepo.cs",
-              "RelativeToolTip": "FungShuiKoi_Repository\\IShapeRepo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T11:59:42.567Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 38,
-              "Title": "PointOfShapeRepo.cs",
-              "DocumentMoniker": "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_Repository\\PointOfShapeRepo.cs",
-              "RelativeDocumentMoniker": "FungShuiKoi_Repository\\PointOfShapeRepo.cs",
-              "ToolTip": "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_Repository\\PointOfShapeRepo.cs",
-              "RelativeToolTip": "FungShuiKoi_Repository\\PointOfShapeRepo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T11:58:39.531Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 39,
-              "Title": "IPointOfShapeRepo.cs",
-              "DocumentMoniker": "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_Repository\\IPointOfShapeRepo.cs",
-              "RelativeDocumentMoniker": "FungShuiKoi_Repository\\IPointOfShapeRepo.cs",
-              "ToolTip": "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_Repository\\IPointOfShapeRepo.cs",
-              "RelativeToolTip": "FungShuiKoi_Repository\\IPointOfShapeRepo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T11:58:20.654Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 40,
-              "Title": "ShapeDAO.cs",
-              "DocumentMoniker": "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_DAO\\ShapeDAO.cs",
-              "RelativeDocumentMoniker": "FungShuiKoi_DAO\\ShapeDAO.cs",
-              "ToolTip": "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_DAO\\ShapeDAO.cs",
-              "RelativeToolTip": "FungShuiKoi_DAO\\ShapeDAO.cs",
-              "ViewState": "AgIAADYAAAAAAAAAAAAQwF4AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T11:58:01.014Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 41,
-              "Title": "PointOfShapeDAO.cs",
-              "DocumentMoniker": "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_DAO\\PointOfShapeDAO.cs",
-              "RelativeDocumentMoniker": "FungShuiKoi_DAO\\PointOfShapeDAO.cs",
-              "ToolTip": "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_DAO\\PointOfShapeDAO.cs",
-              "RelativeToolTip": "FungShuiKoi_DAO\\PointOfShapeDAO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF4AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T11:56:46.504Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 42,
-              "Title": "PackageRepo.cs",
-              "DocumentMoniker": "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_Repository\\PackageRepo.cs",
-              "RelativeDocumentMoniker": "FungShuiKoi_Repository\\PackageRepo.cs",
-              "ToolTip": "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_Repository\\PackageRepo.cs",
-              "RelativeToolTip": "FungShuiKoi_Repository\\PackageRepo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T11:55:03.781Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 43,
-              "Title": "IPackageRepo.cs",
-              "DocumentMoniker": "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_Repository\\IPackageRepo.cs",
-              "RelativeDocumentMoniker": "FungShuiKoi_Repository\\IPackageRepo.cs",
-              "ToolTip": "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_Repository\\IPackageRepo.cs",
-              "RelativeToolTip": "FungShuiKoi_Repository\\IPackageRepo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T11:54:43.616Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 44,
-              "Title": "PackageDAO.cs",
-              "DocumentMoniker": "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_DAO\\PackageDAO.cs",
-              "RelativeDocumentMoniker": "FungShuiKoi_DAO\\PackageDAO.cs",
-              "ToolTip": "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_DAO\\PackageDAO.cs",
-              "RelativeToolTip": "FungShuiKoi_DAO\\PackageDAO.cs",
-              "ViewState": "AgIAAEEAAAAAAAAAAAAgwF4AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T11:54:06.727Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 56,
-              "Title": "MemberDAO.cs",
-              "DocumentMoniker": "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_DAO\\MemberDAO.cs",
-              "RelativeDocumentMoniker": "FungShuiKoi_DAO\\MemberDAO.cs",
-              "ToolTip": "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_DAO\\MemberDAO.cs",
-              "RelativeToolTip": "FungShuiKoi_DAO\\MemberDAO.cs",
-              "ViewState": "AgIAAD8AAAAAAAAAAADwv2EAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-28T08:09:05.416Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 55,
-              "Title": "QuantityDAO.cs",
-              "DocumentMoniker": "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_DAO\\QuantityDAO.cs",
-              "RelativeDocumentMoniker": "FungShuiKoi_DAO\\QuantityDAO.cs",
-              "ToolTip": "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_DAO\\QuantityDAO.cs",
-              "RelativeToolTip": "FungShuiKoi_DAO\\QuantityDAO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T06:46:06.771Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 54,
-              "Title": "TypeColorDAO.cs",
-              "DocumentMoniker": "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_DAO\\TypeColorDAO.cs",
-              "RelativeDocumentMoniker": "FungShuiKoi_DAO\\TypeColorDAO.cs",
-              "ToolTip": "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_DAO\\TypeColorDAO.cs",
-              "RelativeToolTip": "FungShuiKoi_DAO\\TypeColorDAO.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAqwCAAAABBAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T08:05:06.329Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 53,
-              "Title": "Account.cs",
-              "DocumentMoniker": "E:\\SWP391\\KoiFengShui.BE\\FengShuiKoi_BO\\Account.cs",
-              "RelativeDocumentMoniker": "FengShuiKoi_BO\\Account.cs",
-              "ToolTip": "E:\\SWP391\\KoiFengShui.BE\\FengShuiKoi_BO\\Account.cs",
-              "RelativeToolTip": "FengShuiKoi_BO\\Account.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-28T08:22:56.157Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 52,
-              "Title": "AdsPackage.cs",
-              "DocumentMoniker": "E:\\SWP391\\KoiFengShui.BE\\FengShuiKoi_BO\\AdsPackage.cs",
-              "RelativeDocumentMoniker": "FengShuiKoi_BO\\AdsPackage.cs",
-              "ToolTip": "E:\\SWP391\\KoiFengShui.BE\\FengShuiKoi_BO\\AdsPackage.cs",
-              "RelativeToolTip": "FengShuiKoi_BO\\AdsPackage.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T06:44:50.214Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 51,
-              "Title": "Advertisement.cs",
-              "DocumentMoniker": "E:\\SWP391\\KoiFengShui.BE\\FengShuiKoi_BO\\Advertisement.cs",
-              "RelativeDocumentMoniker": "FengShuiKoi_BO\\Advertisement.cs",
-              "ToolTip": "E:\\SWP391\\KoiFengShui.BE\\FengShuiKoi_BO\\Advertisement.cs",
-              "RelativeToolTip": "FengShuiKoi_BO\\Advertisement.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T06:44:51.267Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 50,
-              "Title": "Blog.cs",
-              "DocumentMoniker": "E:\\SWP391\\KoiFengShui.BE\\FengShuiKoi_BO\\Blog.cs",
-              "RelativeDocumentMoniker": "FengShuiKoi_BO\\Blog.cs",
-              "ToolTip": "E:\\SWP391\\KoiFengShui.BE\\FengShuiKoi_BO\\Blog.cs",
-              "RelativeToolTip": "FengShuiKoi_BO\\Blog.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T06:45:05.877Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 49,
-              "Title": "Color.cs",
-              "DocumentMoniker": "E:\\SWP391\\KoiFengShui.BE\\FengShuiKoi_BO\\Color.cs",
-              "RelativeDocumentMoniker": "FengShuiKoi_BO\\Color.cs",
-              "ToolTip": "E:\\SWP391\\KoiFengShui.BE\\FengShuiKoi_BO\\Color.cs",
-              "RelativeToolTip": "FengShuiKoi_BO\\Color.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T06:44:44.702Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 48,
-              "Title": "Direction.cs",
-              "DocumentMoniker": "E:\\SWP391\\KoiFengShui.BE\\FengShuiKoi_BO\\Direction.cs",
-              "RelativeDocumentMoniker": "FengShuiKoi_BO\\Direction.cs",
-              "ToolTip": "E:\\SWP391\\KoiFengShui.BE\\FengShuiKoi_BO\\Direction.cs",
-              "RelativeToolTip": "FengShuiKoi_BO\\Direction.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T06:45:07.155Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 47,
-              "Title": "Element.cs",
-              "DocumentMoniker": "E:\\SWP391\\KoiFengShui.BE\\FengShuiKoi_BO\\Element.cs",
-              "RelativeDocumentMoniker": "FengShuiKoi_BO\\Element.cs",
-              "ToolTip": "E:\\SWP391\\KoiFengShui.BE\\FengShuiKoi_BO\\Element.cs",
-              "RelativeToolTip": "FengShuiKoi_BO\\Element.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T06:44:10.104Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 46,
-              "Title": "Member.cs",
-              "DocumentMoniker": "E:\\SWP391\\KoiFengShui.BE\\FengShuiKoi_BO\\Member.cs",
-              "RelativeDocumentMoniker": "FengShuiKoi_BO\\Member.cs",
-              "ToolTip": "E:\\SWP391\\KoiFengShui.BE\\FengShuiKoi_BO\\Member.cs",
-              "RelativeToolTip": "FengShuiKoi_BO\\Member.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-29T05:13:39.953Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 45,
-              "Title": "Quantity.cs",
-              "DocumentMoniker": "E:\\SWP391\\KoiFengShui.BE\\FengShuiKoi_BO\\Quantity.cs",
-              "RelativeDocumentMoniker": "FengShuiKoi_BO\\Quantity.cs",
-              "ToolTip": "E:\\SWP391\\KoiFengShui.BE\\FengShuiKoi_BO\\Quantity.cs",
-              "RelativeToolTip": "FengShuiKoi_BO\\Quantity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T06:45:11.346Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 57,
-              "Title": "LifePlaceDirectionDAO.cs",
-              "DocumentMoniker": "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_DAO\\LifePlaceDirectionDAO.cs",
-              "RelativeDocumentMoniker": "FungShuiKoi_DAO\\LifePlaceDirectionDAO.cs",
-              "ToolTip": "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_DAO\\LifePlaceDirectionDAO.cs",
-              "RelativeToolTip": "FungShuiKoi_DAO\\LifePlaceDirectionDAO.cs",
-              "ViewState": "AgIAAEEAAAAAAAAAAAAgwF4AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T11:47:35.161Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 58,
-              "Title": "LifePlaceDAO.cs",
-              "DocumentMoniker": "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_DAO\\LifePlaceDAO.cs",
-              "RelativeDocumentMoniker": "FungShuiKoi_DAO\\LifePlaceDAO.cs",
-              "ToolTip": "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_DAO\\LifePlaceDAO.cs",
-              "RelativeToolTip": "FungShuiKoi_DAO\\LifePlaceDAO.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAAAQwF4AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T11:45:01.329Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 59,
-              "Title": "KoiVarietyDAO.cs",
-              "DocumentMoniker": "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_DAO\\KoiVarietyDAO.cs",
-              "RelativeDocumentMoniker": "FungShuiKoi_DAO\\KoiVarietyDAO.cs",
-              "ToolTip": "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_DAO\\KoiVarietyDAO.cs",
-              "RelativeToolTip": "FungShuiKoi_DAO\\KoiVarietyDAO.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAlwCEAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T07:31:10.71Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 60,
-              "Title": "FeedbackDAO.cs",
-              "DocumentMoniker": "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_DAO\\FeedbackDAO.cs",
-              "RelativeDocumentMoniker": "FungShuiKoi_DAO\\FeedbackDAO.cs",
-              "ToolTip": "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_DAO\\FeedbackDAO.cs",
-              "RelativeToolTip": "FungShuiKoi_DAO\\FeedbackDAO.cs",
-              "ViewState": "AgIAAGMAAAAAAAAAAAAUwG8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T11:09:51.796Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 61,
-              "Title": "ElementDAO.cs",
-              "DocumentMoniker": "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_DAO\\ElementDAO.cs",
-              "RelativeDocumentMoniker": "FungShuiKoi_DAO\\ElementDAO.cs",
-              "ToolTip": "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_DAO\\ElementDAO.cs",
-              "RelativeToolTip": "FungShuiKoi_DAO\\ElementDAO.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T06:40:53.67Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 62,
-              "Title": "ElementColorDAO.cs",
-              "DocumentMoniker": "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_DAO\\ElementColorDAO.cs",
-              "RelativeDocumentMoniker": "FungShuiKoi_DAO\\ElementColorDAO.cs",
-              "ToolTip": "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_DAO\\ElementColorDAO.cs",
-              "RelativeToolTip": "FungShuiKoi_DAO\\ElementColorDAO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF4AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T11:42:09.514Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 63,
-              "Title": "DirectionDAO.cs",
-              "DocumentMoniker": "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_DAO\\DirectionDAO.cs",
-              "RelativeDocumentMoniker": "FungShuiKoi_DAO\\DirectionDAO.cs",
-              "ToolTip": "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_DAO\\DirectionDAO.cs",
-              "RelativeToolTip": "FungShuiKoi_DAO\\DirectionDAO.cs",
-              "ViewState": "AgIAAD8AAAAAAAAAAAAmwF4AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T11:37:48.017Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 64,
-              "Title": "ColorDAO.cs",
-              "DocumentMoniker": "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_DAO\\ColorDAO.cs",
-              "RelativeDocumentMoniker": "FungShuiKoi_DAO\\ColorDAO.cs",
-              "ToolTip": "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_DAO\\ColorDAO.cs",
-              "RelativeToolTip": "FungShuiKoi_DAO\\ColorDAO.cs",
-              "ViewState": "AgIAAD8AAAAAAAAAAAAmwB4AAABEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T11:30:42.207Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 65,
-              "Title": "BlogDAO.cs",
-              "DocumentMoniker": "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_DAO\\BlogDAO.cs",
-              "RelativeDocumentMoniker": "FungShuiKoi_DAO\\BlogDAO.cs",
-              "ToolTip": "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_DAO\\BlogDAO.cs",
-              "RelativeToolTip": "FungShuiKoi_DAO\\BlogDAO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T11:38:53.664Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 66,
-              "Title": "AdvertisementDAO.cs",
-              "DocumentMoniker": "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_DAO\\AdvertisementDAO.cs",
-              "RelativeDocumentMoniker": "FungShuiKoi_DAO\\AdvertisementDAO.cs",
-              "ToolTip": "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_DAO\\AdvertisementDAO.cs",
-              "RelativeToolTip": "FungShuiKoi_DAO\\AdvertisementDAO.cs",
-              "ViewState": "AgIAAFMAAAAAAAAAAAAuwGMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T11:36:19.852Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 67,
-              "Title": "AccountDAO.cs",
-              "DocumentMoniker": "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_DAO\\AccountDAO.cs",
-              "RelativeDocumentMoniker": "FungShuiKoi_DAO\\AccountDAO.cs",
-              "ToolTip": "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_DAO\\AccountDAO.cs",
-              "RelativeToolTip": "FungShuiKoi_DAO\\AccountDAO.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-28T08:08:36.193Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 68,
-              "Title": "LifePlaceDirectionRepo.cs",
-              "DocumentMoniker": "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_Repository\\LifePlaceDirectionRepo.cs",
-              "RelativeDocumentMoniker": "FungShuiKoi_Repository\\LifePlaceDirectionRepo.cs",
-              "ToolTip": "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_Repository\\LifePlaceDirectionRepo.cs",
-              "RelativeToolTip": "FungShuiKoi_Repository\\LifePlaceDirectionRepo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T11:48:33.239Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 69,
-              "Title": "ILifePlaceDirectionRepo.cs",
-              "DocumentMoniker": "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_Repository\\ILifePlaceDirectionRepo.cs",
-              "RelativeDocumentMoniker": "FungShuiKoi_Repository\\ILifePlaceDirectionRepo.cs",
-              "ToolTip": "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_Repository\\ILifePlaceDirectionRepo.cs",
-              "RelativeToolTip": "FungShuiKoi_Repository\\ILifePlaceDirectionRepo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T11:48:08.8Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 70,
-              "Title": "LifePlaceRepo.cs",
-              "DocumentMoniker": "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_Repository\\LifePlaceRepo.cs",
-              "RelativeDocumentMoniker": "FungShuiKoi_Repository\\LifePlaceRepo.cs",
-              "ToolTip": "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_Repository\\LifePlaceRepo.cs",
-              "RelativeToolTip": "FungShuiKoi_Repository\\LifePlaceRepo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T11:46:16.592Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 71,
-              "Title": "ILifePlaceRepo.cs",
-              "DocumentMoniker": "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_Repository\\ILifePlaceRepo.cs",
-              "RelativeDocumentMoniker": "FungShuiKoi_Repository\\ILifePlaceRepo.cs",
-              "ToolTip": "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_Repository\\ILifePlaceRepo.cs",
-              "RelativeToolTip": "FungShuiKoi_Repository\\ILifePlaceRepo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T11:45:49.251Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 72,
-              "Title": "ElementColorRepo.cs",
-              "DocumentMoniker": "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_Repository\\ElementColorRepo.cs",
-              "RelativeDocumentMoniker": "FungShuiKoi_Repository\\ElementColorRepo.cs",
-              "ToolTip": "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_Repository\\ElementColorRepo.cs",
-              "RelativeToolTip": "FungShuiKoi_Repository\\ElementColorRepo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T11:43:12.675Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 73,
-              "Title": "IElementColorRepo.cs",
-              "DocumentMoniker": "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_Repository\\IElementColorRepo.cs",
-              "RelativeDocumentMoniker": "FungShuiKoi_Repository\\IElementColorRepo.cs",
-              "ToolTip": "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_Repository\\IElementColorRepo.cs",
-              "RelativeToolTip": "FungShuiKoi_Repository\\IElementColorRepo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T11:42:53.421Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 74,
-              "Title": "SWP391_FengShuiKoiConsulting_DBContext.cs",
-              "DocumentMoniker": "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_DAO\\SWP391_FengShuiKoiConsulting_DBContext.cs",
-              "RelativeDocumentMoniker": "FungShuiKoi_DAO\\SWP391_FengShuiKoiConsulting_DBContext.cs",
-              "ToolTip": "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_DAO\\SWP391_FengShuiKoiConsulting_DBContext.cs",
-              "RelativeToolTip": "FungShuiKoi_DAO\\SWP391_FengShuiKoiConsulting_DBContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-29T11:26:06.983Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 75,
-              "Title": "DirectionRepo.cs",
-              "DocumentMoniker": "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_Repository\\DirectionRepo.cs",
-              "RelativeDocumentMoniker": "FungShuiKoi_Repository\\DirectionRepo.cs",
-              "ToolTip": "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_Repository\\DirectionRepo.cs",
-              "RelativeToolTip": "FungShuiKoi_Repository\\DirectionRepo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T11:39:33.454Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 76,
-              "Title": "IDirectionRepo.cs",
-              "DocumentMoniker": "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_Repository\\IDirectionRepo.cs",
-              "RelativeDocumentMoniker": "FungShuiKoi_Repository\\IDirectionRepo.cs",
-              "ToolTip": "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_Repository\\IDirectionRepo.cs",
-              "RelativeToolTip": "FungShuiKoi_Repository\\IDirectionRepo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T11:38:29.768Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 78,
-              "Title": "IColorRepo.cs",
-              "DocumentMoniker": "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_Repository\\IColorRepo.cs",
-              "RelativeDocumentMoniker": "FungShuiKoi_Repository\\IColorRepo.cs",
-              "ToolTip": "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_Repository\\IColorRepo.cs",
-              "RelativeToolTip": "FungShuiKoi_Repository\\IColorRepo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T11:31:27.46Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 79,
-              "Title": "FengShuiKoi_DAO",
-              "DocumentMoniker": "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_DAO\\FengShuiKoi_DAO.csproj",
-              "RelativeDocumentMoniker": "FungShuiKoi_DAO\\FengShuiKoi_DAO.csproj",
-              "ToolTip": "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_DAO\\FengShuiKoi_DAO.csproj",
-              "RelativeToolTip": "FungShuiKoi_DAO\\FengShuiKoi_DAO.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-09-30T11:34:41.788Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 77,
-              "Title": "IAdvertisementRepo.cs",
-              "DocumentMoniker": "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_Repository\\IAdvertisementRepo.cs",
-              "RelativeDocumentMoniker": "FungShuiKoi_Repository\\IAdvertisementRepo.cs",
-              "ToolTip": "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_Repository\\IAdvertisementRepo.cs",
-              "RelativeToolTip": "FungShuiKoi_Repository\\IAdvertisementRepo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T10:28:43Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 81,
-              "Title": "ColorRepo.cs",
-              "DocumentMoniker": "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_Repository\\ColorRepo.cs",
-              "RelativeDocumentMoniker": "FungShuiKoi_Repository\\ColorRepo.cs",
-              "ToolTip": "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_Repository\\ColorRepo.cs",
-              "RelativeToolTip": "FungShuiKoi_Repository\\ColorRepo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T11:32:13.394Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 83,
-              "Title": "IFeedbackRepo.cs",
-              "DocumentMoniker": "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_Repository\\IFeedbackRepo.cs",
-              "RelativeDocumentMoniker": "FungShuiKoi_Repository\\IFeedbackRepo.cs",
-              "ToolTip": "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_Repository\\IFeedbackRepo.cs",
-              "RelativeToolTip": "FungShuiKoi_Repository\\IFeedbackRepo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T11:13:13.744Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 86,
-              "Title": "FeedbackRepo.cs",
-              "DocumentMoniker": "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_Repository\\FeedbackRepo.cs",
-              "RelativeDocumentMoniker": "FungShuiKoi_Repository\\FeedbackRepo.cs",
-              "ToolTip": "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_Repository\\FeedbackRepo.cs",
-              "RelativeToolTip": "FungShuiKoi_Repository\\FeedbackRepo.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAQwBoAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T11:15:10.597Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 87,
-              "Title": "BlogRepo.cs",
-              "DocumentMoniker": "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_Repository\\BlogRepo.cs",
-              "RelativeDocumentMoniker": "FungShuiKoi_Repository\\BlogRepo.cs",
-              "ToolTip": "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_Repository\\BlogRepo.cs",
-              "RelativeToolTip": "FungShuiKoi_Repository\\BlogRepo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T10:51:19.275Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 82,
-              "Title": "IBlogRepo.cs",
-              "DocumentMoniker": "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_Repository\\IBlogRepo.cs",
-              "RelativeDocumentMoniker": "FungShuiKoi_Repository\\IBlogRepo.cs",
-              "ToolTip": "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_Repository\\IBlogRepo.cs",
-              "RelativeToolTip": "FungShuiKoi_Repository\\IBlogRepo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T10:48:00.029Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 80,
-              "Title": "IElementRepo.cs",
-              "DocumentMoniker": "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_Repository\\IElementRepo.cs",
-              "RelativeDocumentMoniker": "FungShuiKoi_Repository\\IElementRepo.cs",
-              "ToolTip": "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_Repository\\IElementRepo.cs",
-              "RelativeToolTip": "FungShuiKoi_Repository\\IElementRepo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA+AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T07:16:52.579Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 85,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\SWP391\\KoiFengShui.BE\\KoiFengShui.BE\\Program.cs",
-              "RelativeDocumentMoniker": "KoiFengShui.BE\\Program.cs",
-              "ToolTip": "E:\\SWP391\\KoiFengShui.BE\\KoiFengShui.BE\\Program.cs",
-              "RelativeToolTip": "KoiFengShui.BE\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-29T03:35:48.23Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 84,
-              "Title": "IAccountRepo.cs",
-              "DocumentMoniker": "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_Repository\\IAccountRepo.cs",
-              "RelativeDocumentMoniker": "FungShuiKoi_Repository\\IAccountRepo.cs",
-              "ToolTip": "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_Repository\\IAccountRepo.cs",
-              "RelativeToolTip": "FungShuiKoi_Repository\\IAccountRepo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-29T02:54:48.104Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 88,
-              "Title": "AccountRepo.cs",
-              "DocumentMoniker": "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_Repository\\AccountRepo.cs",
-              "RelativeDocumentMoniker": "FungShuiKoi_Repository\\AccountRepo.cs",
-              "ToolTip": "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_Repository\\AccountRepo.cs",
-              "RelativeToolTip": "FungShuiKoi_Repository\\AccountRepo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-29T02:57:36.88Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 91,
-              "Title": "IAdsPackageRepo.cs",
-              "DocumentMoniker": "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_Repository\\IAdsPackageRepo.cs",
-              "RelativeDocumentMoniker": "FungShuiKoi_Repository\\IAdsPackageRepo.cs",
-              "ToolTip": "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_Repository\\IAdsPackageRepo.cs",
-              "RelativeToolTip": "FungShuiKoi_Repository\\IAdsPackageRepo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T09:51:24.503Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 90,
-              "Title": "AdvertisementRepo.cs",
-              "DocumentMoniker": "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_Repository\\AdvertisementRepo.cs",
-              "RelativeDocumentMoniker": "FungShuiKoi_Repository\\AdvertisementRepo.cs",
-              "ToolTip": "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_Repository\\AdvertisementRepo.cs",
-              "RelativeToolTip": "FungShuiKoi_Repository\\AdvertisementRepo.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAACMAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T10:30:49.331Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 89,
-              "Title": "AdsPackageRepo.cs",
-              "DocumentMoniker": "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_Repository\\AdsPackageRepo.cs",
-              "RelativeDocumentMoniker": "FungShuiKoi_Repository\\AdsPackageRepo.cs",
-              "ToolTip": "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_Repository\\AdsPackageRepo.cs",
-              "RelativeToolTip": "FungShuiKoi_Repository\\AdsPackageRepo.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB4AAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T10:08:10.679Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 92,
-              "Title": "ElementRepo.cs",
-              "DocumentMoniker": "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_Repository\\ElementRepo.cs",
-              "RelativeDocumentMoniker": "FungShuiKoi_Repository\\ElementRepo.cs",
-              "ToolTip": "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_Repository\\ElementRepo.cs",
-              "RelativeToolTip": "FungShuiKoi_Repository\\ElementRepo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T07:15:47.951Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 93,
-              "Title": "ITypeColorRepo.cs",
-              "DocumentMoniker": "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_Repository\\ITypeColorRepo.cs",
-              "RelativeDocumentMoniker": "FungShuiKoi_Repository\\ITypeColorRepo.cs",
-              "ToolTip": "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_Repository\\ITypeColorRepo.cs",
-              "RelativeToolTip": "FungShuiKoi_Repository\\ITypeColorRepo.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAqwA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T08:10:03.403Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 97,
-              "Title": "IQuantityRepo.cs",
-              "DocumentMoniker": "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_Repository\\IQuantityRepo.cs",
-              "RelativeDocumentMoniker": "FungShuiKoi_Repository\\IQuantityRepo.cs",
-              "ToolTip": "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_Repository\\IQuantityRepo.cs",
-              "RelativeToolTip": "FungShuiKoi_Repository\\IQuantityRepo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA9AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T06:52:32.224Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 96,
-              "Title": "KoiVarietyRepo.cs",
-              "DocumentMoniker": "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_Repository\\KoiVarietyRepo.cs",
-              "RelativeDocumentMoniker": "FungShuiKoi_Repository\\KoiVarietyRepo.cs",
-              "ToolTip": "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_Repository\\KoiVarietyRepo.cs",
-              "RelativeToolTip": "FungShuiKoi_Repository\\KoiVarietyRepo.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAABcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T07:53:55.823Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 95,
-              "Title": "QuantityRepo.cs",
-              "DocumentMoniker": "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_Repository\\QuantityRepo.cs",
-              "RelativeDocumentMoniker": "FungShuiKoi_Repository\\QuantityRepo.cs",
-              "ToolTip": "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_Repository\\QuantityRepo.cs",
-              "RelativeToolTip": "FungShuiKoi_Repository\\QuantityRepo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T06:52:50.162Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 94,
-              "Title": "TypeColorRepo.cs",
-              "DocumentMoniker": "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_Repository\\TypeColorRepo.cs",
-              "RelativeDocumentMoniker": "FungShuiKoi_Repository\\TypeColorRepo.cs",
-              "ToolTip": "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_Repository\\TypeColorRepo.cs",
-              "RelativeToolTip": "FungShuiKoi_Repository\\TypeColorRepo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAB2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T08:12:05.057Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 98,
-              "Title": "IKoiVarietyRepo.cs",
-              "DocumentMoniker": "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_Repository\\IKoiVarietyRepo.cs",
-              "RelativeDocumentMoniker": "FungShuiKoi_Repository\\IKoiVarietyRepo.cs",
-              "ToolTip": "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_Repository\\IKoiVarietyRepo.cs",
-              "RelativeToolTip": "FungShuiKoi_Repository\\IKoiVarietyRepo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T07:52:26.4Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 99,
-              "Title": "MemberRepo.cs",
-              "DocumentMoniker": "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_Repository\\MemberRepo.cs",
-              "RelativeDocumentMoniker": "FungShuiKoi_Repository\\MemberRepo.cs",
-              "ToolTip": "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_Repository\\MemberRepo.cs",
-              "RelativeToolTip": "FungShuiKoi_Repository\\MemberRepo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-29T03:14:37.454Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 100,
-              "Title": "IMemberRepo.cs",
-              "DocumentMoniker": "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_Repository\\IMemberRepo.cs",
-              "RelativeDocumentMoniker": "FungShuiKoi_Repository\\IMemberRepo.cs",
-              "ToolTip": "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_Repository\\IMemberRepo.cs",
-              "RelativeToolTip": "FungShuiKoi_Repository\\IMemberRepo.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAwwA4AAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-29T03:08:26.923Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 101,
-              "Title": "IToken.cs",
-              "DocumentMoniker": "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_Repository\\TokenService\\IToken.cs",
-              "RelativeDocumentMoniker": "FungShuiKoi_Repository\\TokenService\\IToken.cs",
-              "ToolTip": "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_Repository\\TokenService\\IToken.cs",
-              "RelativeToolTip": "FungShuiKoi_Repository\\TokenService\\IToken.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-29T05:48:39.711Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 102,
-              "Title": "Token.cs",
-              "DocumentMoniker": "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_Repository\\TokenService\\Token.cs",
-              "RelativeDocumentMoniker": "FungShuiKoi_Repository\\TokenService\\Token.cs",
-              "ToolTip": "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_Repository\\TokenService\\Token.cs",
-              "RelativeToolTip": "FungShuiKoi_Repository\\TokenService\\Token.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAowA4AAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-29T05:47:49.986Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 103,
-              "Title": "AccountController.cs",
-              "DocumentMoniker": "E:\\SWP391\\KoiFengShui.BE\\KoiFengShui.BE\\Controllers\\AccountController.cs",
-              "RelativeDocumentMoniker": "KoiFengShui.BE\\Controllers\\AccountController.cs",
-              "ToolTip": "E:\\SWP391\\KoiFengShui.BE\\KoiFengShui.BE\\Controllers\\AccountController.cs",
-              "RelativeToolTip": "KoiFengShui.BE\\Controllers\\AccountController.cs",
-              "ViewState": "AgIAAFgAAAAAAAAAAAAWwHIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-29T04:01:22.154Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 104,
-              "Title": "LoginDTO.cs",
-              "DocumentMoniker": "E:\\SWP391\\KoiFengShui.BE\\KoiFengShui.BE\\Model\\LoginDTO.cs",
-              "RelativeDocumentMoniker": "KoiFengShui.BE\\Model\\LoginDTO.cs",
-              "ToolTip": "E:\\SWP391\\KoiFengShui.BE\\KoiFengShui.BE\\Model\\LoginDTO.cs",
-              "RelativeToolTip": "KoiFengShui.BE\\Model\\LoginDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-29T04:18:45.889Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 105,
-              "Title": "GoogleUserDTO.cs",
-              "DocumentMoniker": "E:\\SWP391\\KoiFengShui.BE\\KoiFengShui.BE\\Model\\GoogleUserDTO.cs",
-              "RelativeDocumentMoniker": "KoiFengShui.BE\\Model\\GoogleUserDTO.cs",
-              "ToolTip": "E:\\SWP391\\KoiFengShui.BE\\KoiFengShui.BE\\Model\\GoogleUserDTO.cs",
-              "RelativeToolTip": "KoiFengShui.BE\\Model\\GoogleUserDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-29T11:52:29.409Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 106,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "E:\\SWP391\\KoiFengShui.BE\\KoiFengShui.BE\\appsettings.json",
-              "RelativeDocumentMoniker": "KoiFengShui.BE\\appsettings.json",
-              "ToolTip": "E:\\SWP391\\KoiFengShui.BE\\KoiFengShui.BE\\appsettings.json",
-              "RelativeToolTip": "KoiFengShui.BE\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-09-29T04:27:32.014Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 107,
-              "Title": "RegisterDTO.cs",
-              "DocumentMoniker": "E:\\SWP391\\KoiFengShui.BE\\KoiFengShui.BE\\Model\\RegisterDTO.cs",
-              "RelativeDocumentMoniker": "KoiFengShui.BE\\Model\\RegisterDTO.cs",
-              "ToolTip": "E:\\SWP391\\KoiFengShui.BE\\KoiFengShui.BE\\Model\\RegisterDTO.cs",
-              "RelativeToolTip": "KoiFengShui.BE\\Model\\RegisterDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-29T04:47:23.665Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 108,
-              "Title": "FengShuiKoi_BO.csproj",
-              "DocumentMoniker": "E:\\SWP391\\KoiFengShui.BE\\FengShuiKoi_BO\\FengShuiKoi_BO.csproj",
-              "RelativeDocumentMoniker": "FengShuiKoi_BO\\FengShuiKoi_BO.csproj",
-              "ToolTip": "E:\\SWP391\\KoiFengShui.BE\\FengShuiKoi_BO\\FengShuiKoi_BO.csproj",
-              "RelativeToolTip": "FengShuiKoi_BO\\FengShuiKoi_BO.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-09-28T08:18:02.716Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 109,
-              "Title": "KoiFengShui.BE.csproj",
-              "DocumentMoniker": "E:\\SWP391\\KoiFengShui.BE\\KoiFengShui.BE\\KoiFengShui.BE.csproj",
-              "RelativeDocumentMoniker": "KoiFengShui.BE\\KoiFengShui.BE.csproj",
-              "ToolTip": "E:\\SWP391\\KoiFengShui.BE\\KoiFengShui.BE\\KoiFengShui.BE.csproj",
-              "RelativeToolTip": "KoiFengShui.BE\\KoiFengShui.BE.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-09-29T05:19:13.601Z",
+              "WhenOpened": "2024-09-30T09:14:44.042Z",
               "EditorCaption": ""
             }
           ]

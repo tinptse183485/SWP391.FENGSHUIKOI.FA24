@@ -1,31 +1,29 @@
 {
   "format": 1,
   "restore": {
-    "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_Services\\FengShuiKoi_Services.csproj": {}
+    "C:\\Users\\ADMIN\\Downloads\\Test\\SWP391.FENGSHUIKOI.FA24\\KoiFengShui.BE\\FungShuiKoi_Services\\FengShuiKoi_Services.csproj": {}
   },
   "projects": {
-    "E:\\SWP391\\KoiFengShui.BE\\FengShuiKoi_BO\\FengShuiKoi_BO.csproj": {
+    "C:\\Users\\ADMIN\\Downloads\\Test\\SWP391.FENGSHUIKOI.FA24\\KoiFengShui.BE\\FengShuiKoi_BO\\FengShuiKoi_BO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\SWP391\\KoiFengShui.BE\\FengShuiKoi_BO\\FengShuiKoi_BO.csproj",
+        "projectUniqueName": "C:\\Users\\ADMIN\\Downloads\\Test\\SWP391.FENGSHUIKOI.FA24\\KoiFengShui.BE\\FengShuiKoi_BO\\FengShuiKoi_BO.csproj",
         "projectName": "FengShuiKoi_BO",
-        "projectPath": "E:\\SWP391\\KoiFengShui.BE\\FengShuiKoi_BO\\FengShuiKoi_BO.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "E:\\SWP391\\KoiFengShui.BE\\FengShuiKoi_BO\\obj\\",
+        "projectPath": "C:\\Users\\ADMIN\\Downloads\\Test\\SWP391.FENGSHUIKOI.FA24\\KoiFengShui.BE\\FengShuiKoi_BO\\FengShuiKoi_BO.csproj",
+        "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ADMIN\\Downloads\\Test\\SWP391.FENGSHUIKOI.FA24\\KoiFengShui.BE\\FengShuiKoi_BO\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
@@ -87,28 +85,26 @@
         }
       }
     },
-    "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_DAO\\FengShuiKoi_DAO.csproj": {
+    "C:\\Users\\ADMIN\\Downloads\\Test\\SWP391.FENGSHUIKOI.FA24\\KoiFengShui.BE\\FungShuiKoi_DAO\\FengShuiKoi_DAO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_DAO\\FengShuiKoi_DAO.csproj",
+        "projectUniqueName": "C:\\Users\\ADMIN\\Downloads\\Test\\SWP391.FENGSHUIKOI.FA24\\KoiFengShui.BE\\FungShuiKoi_DAO\\FengShuiKoi_DAO.csproj",
         "projectName": "FengShuiKoi_DAO",
-        "projectPath": "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_DAO\\FengShuiKoi_DAO.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_DAO\\obj\\",
+        "projectPath": "C:\\Users\\ADMIN\\Downloads\\Test\\SWP391.FENGSHUIKOI.FA24\\KoiFengShui.BE\\FungShuiKoi_DAO\\FengShuiKoi_DAO.csproj",
+        "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ADMIN\\Downloads\\Test\\SWP391.FENGSHUIKOI.FA24\\KoiFengShui.BE\\FungShuiKoi_DAO\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
@@ -116,8 +112,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "E:\\SWP391\\KoiFengShui.BE\\FengShuiKoi_BO\\FengShuiKoi_BO.csproj": {
-                "projectPath": "E:\\SWP391\\KoiFengShui.BE\\FengShuiKoi_BO\\FengShuiKoi_BO.csproj"
+              "C:\\Users\\ADMIN\\Downloads\\Test\\SWP391.FENGSHUIKOI.FA24\\KoiFengShui.BE\\FengShuiKoi_BO\\FengShuiKoi_BO.csproj": {
+                "projectPath": "C:\\Users\\ADMIN\\Downloads\\Test\\SWP391.FENGSHUIKOI.FA24\\KoiFengShui.BE\\FengShuiKoi_BO\\FengShuiKoi_BO.csproj"
               }
             }
           }
@@ -156,28 +152,26 @@
         }
       }
     },
-    "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_Repository\\FengShuiKoi_Repository.csproj": {
+    "C:\\Users\\ADMIN\\Downloads\\Test\\SWP391.FENGSHUIKOI.FA24\\KoiFengShui.BE\\FungShuiKoi_Repository\\FengShuiKoi_Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_Repository\\FengShuiKoi_Repository.csproj",
+        "projectUniqueName": "C:\\Users\\ADMIN\\Downloads\\Test\\SWP391.FENGSHUIKOI.FA24\\KoiFengShui.BE\\FungShuiKoi_Repository\\FengShuiKoi_Repository.csproj",
         "projectName": "FengShuiKoi_Repository",
-        "projectPath": "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_Repository\\FengShuiKoi_Repository.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_Repository\\obj\\",
+        "projectPath": "C:\\Users\\ADMIN\\Downloads\\Test\\SWP391.FENGSHUIKOI.FA24\\KoiFengShui.BE\\FungShuiKoi_Repository\\FengShuiKoi_Repository.csproj",
+        "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ADMIN\\Downloads\\Test\\SWP391.FENGSHUIKOI.FA24\\KoiFengShui.BE\\FungShuiKoi_Repository\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
@@ -185,8 +179,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_DAO\\FengShuiKoi_DAO.csproj": {
-                "projectPath": "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_DAO\\FengShuiKoi_DAO.csproj"
+              "C:\\Users\\ADMIN\\Downloads\\Test\\SWP391.FENGSHUIKOI.FA24\\KoiFengShui.BE\\FungShuiKoi_DAO\\FengShuiKoi_DAO.csproj": {
+                "projectPath": "C:\\Users\\ADMIN\\Downloads\\Test\\SWP391.FENGSHUIKOI.FA24\\KoiFengShui.BE\\FungShuiKoi_DAO\\FengShuiKoi_DAO.csproj"
               }
             }
           }
@@ -225,28 +219,26 @@
         }
       }
     },
-    "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_Services\\FengShuiKoi_Services.csproj": {
+    "C:\\Users\\ADMIN\\Downloads\\Test\\SWP391.FENGSHUIKOI.FA24\\KoiFengShui.BE\\FungShuiKoi_Services\\FengShuiKoi_Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_Services\\FengShuiKoi_Services.csproj",
+        "projectUniqueName": "C:\\Users\\ADMIN\\Downloads\\Test\\SWP391.FENGSHUIKOI.FA24\\KoiFengShui.BE\\FungShuiKoi_Services\\FengShuiKoi_Services.csproj",
         "projectName": "FengShuiKoi_Services",
-        "projectPath": "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_Services\\FengShuiKoi_Services.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_Services\\obj\\",
+        "projectPath": "C:\\Users\\ADMIN\\Downloads\\Test\\SWP391.FENGSHUIKOI.FA24\\KoiFengShui.BE\\FungShuiKoi_Services\\FengShuiKoi_Services.csproj",
+        "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ADMIN\\Downloads\\Test\\SWP391.FENGSHUIKOI.FA24\\KoiFengShui.BE\\FungShuiKoi_Services\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
@@ -254,8 +246,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_Repository\\FengShuiKoi_Repository.csproj": {
-                "projectPath": "E:\\SWP391\\KoiFengShui.BE\\FungShuiKoi_Repository\\FengShuiKoi_Repository.csproj"
+              "C:\\Users\\ADMIN\\Downloads\\Test\\SWP391.FENGSHUIKOI.FA24\\KoiFengShui.BE\\FungShuiKoi_Repository\\FengShuiKoi_Repository.csproj": {
+                "projectPath": "C:\\Users\\ADMIN\\Downloads\\Test\\SWP391.FENGSHUIKOI.FA24\\KoiFengShui.BE\\FungShuiKoi_Repository\\FengShuiKoi_Repository.csproj"
               }
             }
           }

@@ -48,24 +48,67 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "KoiFengShui.BE.Controllers.WeatherForecastController",
-    "Method": "Get",
-    "RelativePath": "WeatherForecast",
+    "ContainingType": "KoiFengShui.BE.Controllers.ElementMutualismController",
+    "Method": "GetElementByBirthYear",
+    "RelativePath": "api/ElementMutualism/element",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
-    "Parameters": [],
-    "ReturnTypes": [
+    "Parameters": [
       {
-        "Type": "System.Collections.Generic.IEnumerable\u00601[[KoiFengShui.BE.WeatherForecast, KoiFengShui.BE, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
-        "MediaTypes": [
-          "text/plain",
-          "application/json",
-          "text/json"
-        ],
-        "StatusCode": 200
+        "Name": "birthYear",
+        "Type": "System.Int32",
+        "IsRequired": false
       }
     ],
-    "EndpointName": "GetWeatherForecast"
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "KoiFengShui.BE.Controllers.ElementMutualismController",
+    "Method": "GetMutualismByElement",
+    "RelativePath": "api/ElementMutualism/Mutualism",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "e",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "KoiFengShui.BE.Controllers.KoiVarietyController",
+    "Method": "GetKoiVarietiesByElement",
+    "RelativePath": "api/KoiVariety/GetListKoi",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dob",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "KoiFengShui.BE.Controllers.KoiVarietyController",
+    "Method": "GetQuantityByElement",
+    "RelativePath": "api/KoiVariety/GetQuantity",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dob",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
   }
 ]
