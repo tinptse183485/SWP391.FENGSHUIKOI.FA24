@@ -12,9 +12,9 @@ INSERT INTO Account (UserID, Password, Role, Email, Status)
 VALUES 
 ('hau', '123', 'Admin', 'hauhnse183392@fpt.edu.vn', 'Active'),
 ('nhan', '123', 'Member', 'nhannbse183392@fpt.edu.vn', 'Active'),
-('khoa', '123', 'Member', 'nhannbse183392@fpt.edu.vn', 'Active'),
-('huy', '123', 'Member', 'nhannbse183392@fpt.edu.vn', 'Active'),
-('tin', '123', 'Member', 'nhannbse183392@fpt.edu.vn', 'Active');
+('khoa', '123', 'Member', 'khoabse183392@fpt.edu.vn', 'Active'),
+('huy', '123', 'Member', 'huynbse183392@fpt.edu.vn', 'Active'),
+('tin', '123', 'Member', 'tinnbse183392@fpt.edu.vn', 'Active');
 
 -- Insert data into Member table
 INSERT INTO Member (Name, Birthday, UserID)
@@ -316,7 +316,7 @@ INSERT INTO Type_Color (KoiType, Color, Percentage) VALUES
 (N'Gin Rin Yamato Nishiki', N'Đen', 0.05);
 
 -- Insert data into Quantity table
-INSERT INTO Quantity (Element, Description) VALUES
+INSERT INTO QuantityOfFish (Element, Description) VALUES
 (N'Thủy', N'Phù hợp nuôi số lượng cá có hàng đơn vị là 1 hoặc 6. VD: 1 con, 11 con, 6 con, 26 con,...'),
 (N'Kim', N'Phù hợp nuôi số lượng cá có hàng đơn vị là 4 hoặc 9. VD: 4 con, 14 con, 9 con, 29 con,...'),
 (N'Mộc', N'Phù hợp nuôi số lượng cá có hàng đơn vị là 3 hoặc 8. VD: 3 con, 13 con, 8 con, 28 con,...'),

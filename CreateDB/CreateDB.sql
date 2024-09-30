@@ -92,7 +92,7 @@ CREATE TABLE GoodShape (
 );
 
 -- Quantity Table
-CREATE TABLE Quantity (
+CREATE TABLE QuantityOfFish (
     Element NVARCHAR(50) NOT NULL,
     Description NVARCHAR(255) NOT NULL,
 	PRIMARY KEY (Element),
@@ -132,13 +132,6 @@ CREATE TABLE Type_Color (
     FOREIGN KEY (Color) REFERENCES Color(Color)
 );
 
--- Pond Table
-CREATE TABLE Pond (
-    PondID NVARCHAR(50) PRIMARY KEY,
-    Shape NVARCHAR(50) NOT NULL,
-    Description NVARCHAR(255) NOT NULL,
-    Image NVARCHAR(255) NOT NULL
-);
 
 -- Element_Color Table
 CREATE TABLE Element_Color (
@@ -150,12 +143,12 @@ CREATE TABLE Element_Color (
     FOREIGN KEY (Color) REFERENCES Color(Color)
 );
 
--- Direction Table
+-- Direction Direction
 CREATE TABLE Direction (
     Direction NVARCHAR(50) PRIMARY KEY
 );
 
--- LifePalace Table
+-- LifePalace LifePalace
 CREATE TABLE LifePalace (
     LifePalace NVARCHAR(50) PRIMARY KEY
 );
