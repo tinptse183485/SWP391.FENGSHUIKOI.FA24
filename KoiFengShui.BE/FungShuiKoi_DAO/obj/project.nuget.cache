@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1znK5DvV1zw=",
+  "dgSpecHash": "nIHke47EzIQ=",
   "success": true,
-  "projectFilePath": "C:\\Users\\ADMIN\\Downloads\\KoiFengShui.BE.BACKUP\\KoiFengShui.BE\\FungShuiKoi_DAO\\FengShuiKoi_DAO.csproj",
+  "projectFilePath": "C:\\Users\\ADMIN\\Downloads\\Test\\SWP391.FENGSHUIKOI.FA24\\KoiFengShui.BE\\FungShuiKoi_DAO\\FengShuiKoi_DAO.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ADMIN\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\ADMIN\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",
